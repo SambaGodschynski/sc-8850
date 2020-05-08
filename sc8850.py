@@ -2,6 +2,8 @@
 
 import rtmidi
 from rtmidi import MidiOut
+import threading
+import time
 
 json_instrument_map = 'instruments-map.sc8850.json'
 
@@ -19,6 +21,7 @@ class InstrumentLibrary(object):
                 name = list(instrument.keys())[0]
                 cc = instrument[name]['cc']
                 pc = instrument[name]['pc']
+                pc -= 1
                 instruments.append(Instrument(name, cc, pc))
     def groups(self):
         return list(self.instruments.keys())
@@ -30,14 +33,13 @@ class Instrument(object):
         self.pc = pc
         self.ch = 0
     def __repr__(self):
-        return self.name
+        return f'{self.name} cc={self.cc} pc={self.pc}'
 
 def midi_cmd(midi_command:int, channel:int):
     result = (midi_command << 4) | channel
     return result
 
 def play_a_note(midi_out:MidiOut, instrument: Instrument):
-    import time
     note_on = midi_cmd(0x9, instrument.ch) 
     note_off = midi_cmd(0x8, instrument.ch)
     midi_out.send_message([note_on, 60, 80])
@@ -50,6 +52,7 @@ def set_instrument(midi_out:MidiOut, instrument: Instrument):
     pc = midi_cmd(0xC, instrument.ch)
     midi_out.send_message([pc, instrument.pc])
     midi_out.send_message([cc, 0, instrument.cc])
+    
 
 
 def list_mididevices():
@@ -114,7 +117,8 @@ class SelectionView(object):
 
     def render_header(self):
         term = self.term
-        header = term.center(term.bold(f'{self.current_group.upper()}'))
+        instrstr = str(self.current_instrument)
+        header = instrstr + term.center( term.move_left(len(instrstr)) + term.bold(self.current_group.upper()))
         header = term.black_on_orange(header)
         print(term.move_xy(0,0) + header)
 
@@ -123,14 +127,20 @@ class SelectionView(object):
         instruments = self.library.instruments[self.current_group]
         current_instrument = self.current_instrument
         instr_idx = 0
-        cell_width = 12
+        cell_width = term.width // 8
+        margin = 3
         for x in range(0, term.width, cell_width):
-            for y in range(self.header_size, term.height-1):
+            for y in range(self.header_size, term.height - 1):
                 instrument = instruments[instr_idx]
-                instr_str = '[' + str(instrument)[:cell_width-4] + '..] '
+                instr_str = instrument.name
+                if len(instr_str) < cell_width - margin:
+                    instr_str += ((cell_width - margin) - len(instr_str)) * ' '
+                if len(instr_str) > cell_width - margin:
+                    instr_str = instr_str[:cell_width - margin]
+                line = '[' + instr_str + ']' + margin * ' '
                 if instrument == current_instrument:
-                    instr_str = term.white_on_green(instr_str)
-                print(term.move_xy(x, y) + str(instr_str))
+                    line = term.black_on_green('[' + instr_str + ']') + margin * ' '
+                print(term.move_xy(x, y) + str(line))
                 instr_idx += 1
                 if instr_idx >= len(instruments):
                     return
@@ -144,7 +154,7 @@ class SelectionView(object):
 
 if __name__ == "__main__":
     import argparse
-    
+    import sys
     parser = argparse.ArgumentParser()
     parser.add_argument('--device', type=int, help='the device id of the midi taret device')
     parser.add_argument('--listdevices', action='store_const', const=True, help='set a specific style to process')
@@ -153,23 +163,21 @@ if __name__ == "__main__":
     args = parser.parse_args()
     if args.listdevices:
         list_mididevices()
+        sys.exit(0)
     midi_device_index = 0
     if args.device != None:
         midi_device_index = args.device
-    cc = 0
-    pc = 0
-    if args.pc != None:
-        pc = args.pc
-    if args.cc != None:
-        cc = args.cc
+    midi_out = get_midi_out(midi_device_index)
+    if args.pc != None or args.cc != None:
+        pc = args.pc if args.pc != None else 0
+        cc = args.cc if args.pc != None else 0
+        set_instrument(midi_out, Instrument("", cc, pc))
+        sys.exit(0)
 
     library = InstrumentLibrary(json_instrument_map)
-    instrument = Instrument("", cc, pc)
-    midi_out = get_midi_out(midi_device_index)
-    set_instrument(midi_out, instrument)
-
     view = SelectionView(library)
     term = view.term
+    set_instrument(midi_out, view.current_instrument)
     while True:
         view.render()
         with term.cbreak(), term.hidden_cursor():
@@ -184,5 +192,10 @@ if __name__ == "__main__":
             if inp == 's':
                 view.set_next_instrument()
             if inp == 'w':
-                view.set_prev_instrument()                
-    
+                view.set_prev_instrument()
+            # why I have to send it twice? (dosen't work otherwise, the right instrument is always one step behind)            
+            set_instrument(midi_out, view.current_instrument)
+            set_instrument(midi_out, view.current_instrument)
+
+        
+     

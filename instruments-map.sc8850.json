@@ -3461,223 +3461,223 @@
         {
             "STANDARD 1": {
                 "cc": 1,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "STANDARD 2": {
                 "cc": 2,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "STANDARD L/R": {
                 "cc": 3,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "ROOM": {
                 "cc": 9,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "HIP HOP": {
                 "cc": 10,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "JUNGLE": {
                 "cc": 11,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "TECHNO": {
                 "cc": 12,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "ROOM L/R": {
                 "cc": 13,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "HOUSE": {
                 "cc": 14,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "POWER": {
                 "cc": 17,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "ELECTRONIC": {
                 "cc": 25,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "TR-808": {
                 "cc": 26,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "DANCE": {
                 "cc": 27,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "CR-78": {
                 "cc": 28,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "TR-606": {
                 "cc": 29,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "TR-707": {
                 "cc": 30,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "TR-909": {
                 "cc": 31,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "JAZZ": {
                 "cc": 33,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "JAZZ L/R": {
                 "cc": 34,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "BRUSH": {
                 "cc": 41,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "BRUSH 2": {
                 "cc": 42,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "BRUSH 2 L/R": {
                 "cc": 43,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "ORCHESTRA": {
                 "cc": 49,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "ETHNIC": {
                 "cc": 50,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "KICK & SNARE": {
                 "cc": 51,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "KICK & SNARE 2": {
                 "cc": 52,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "ASIA": {
                 "cc": 53,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "CYMBAL&CLAPS": {
                 "cc": 54,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "GAMELAN 1": {
                 "cc": 55,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "GAMELAN 2": {
                 "cc": 56,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "SFX": {
                 "cc": 57,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "RHYTHM FX": {
                 "cc": 58,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "RHYTHM FX 2": {
                 "cc": 59,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "RHYTHM FX 3": {
                 "cc": 60,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "SFX 2": {
                 "cc": 61,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "VOICE": {
                 "cc": 62,
-                "pc": 0
+                "pc": 1
             }
         },
         {
             "CYM&CLAPS 2": {
                 "cc": 63,
-                "pc": 0
+                "pc": 1
             }
         }
     ],
