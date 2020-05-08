@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import rtmidi
-import time
+from rtmidi import MidiOut
 
 class Instrument(object):
     def __init__(self, cc:int, pc:int):
@@ -13,7 +13,8 @@ def midi_cmd(midi_command:int, channel:int):
     result = (midi_command << 4) | channel
     return result
 
-def play_a_note(midi_out:rtmidi.MidiOut, instrument: Instrument):
+def play_a_note(midi_out:MidiOut, instrument: Instrument):
+    import time
     note_on = midi_cmd(0x9, instrument.ch) 
     note_off = midi_cmd(0x8, instrument.ch)
     midi_out.send_message([note_on, 60, 80])
@@ -21,7 +22,7 @@ def play_a_note(midi_out:rtmidi.MidiOut, instrument: Instrument):
     midi_out.send_message([note_off, 60, 0])
     time.sleep(0.1)
 
-def set_instrument(midi_out:rtmidi.MidiOut, instrument: Instrument):
+def set_instrument(midi_out:MidiOut, instrument: Instrument):
     cc = midi_cmd(0xB, instrument.ch)
     pc = midi_cmd(0xC, instrument.ch)
     midi_out.send_message([pc, instrument.pc])
@@ -29,13 +30,13 @@ def set_instrument(midi_out:rtmidi.MidiOut, instrument: Instrument):
 
 
 def list_mididevices():
-    midiout = rtmidi.MidiOut()
+    midiout = MidiOut()
     ports = midiout.get_ports()
     for idx, port in enumerate(ports):
         print(f'{idx}: {port}')
 
 def get_midi_out(device_index: int):
-    midiout = rtmidi.MidiOut()
+    midiout = MidiOut()
     midiout.open_port(device_index)
     return midiout
 
