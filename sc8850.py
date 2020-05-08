@@ -193,9 +193,12 @@ if __name__ == "__main__":
                 view.set_next_instrument()
             if inp == 'w':
                 view.set_prev_instrument()
-            # why I have to send it twice? (dosen't work otherwise, the right instrument is always one step behind)            
-            set_instrument(midi_out, view.current_instrument)
-            set_instrument(midi_out, view.current_instrument)
+            # why I have to send it twice? (dosen't work otherwise, the right instrument is always one step behind)    
+            instr = view.current_instrument 
+            if view.current_group == "drums":
+                instr.ch = 9
+            set_instrument(midi_out, instr)
+            set_instrument(midi_out, instr)
 
         
      
