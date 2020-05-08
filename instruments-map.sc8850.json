@@ -6038,5 +6038,1791 @@
                 "pc": 88
             }
         }
+    ],
+    "synth pad": [
+        {
+            "Fantasia": {
+                "cc": 0,
+                "pc": 89
+            }
+        },
+        {
+            "Fantasia 2": {
+                "cc": 1,
+                "pc": 89
+            }
+        },
+        {
+            "New Age Pad": {
+                "cc": 2,
+                "pc": 89
+            }
+        },
+        {
+            "Bell Heaven": {
+                "cc": 3,
+                "pc": 89
+            }
+        },
+        {
+            "Fantasia 3": {
+                "cc": 4,
+                "pc": 89
+            }
+        },
+        {
+            "Fantasia 4": {
+                "cc": 5,
+                "pc": 89
+            }
+        },
+        {
+            "After D !": {
+                "cc": 6,
+                "pc": 89
+            }
+        },
+        {
+            "260HarmPad": {
+                "cc": 7,
+                "pc": 89
+            }
+        },
+        {
+            "Warm Pad": {
+                "cc": 0,
+                "pc": 90
+            }
+        },
+        {
+            "Thick Matrix": {
+                "cc": 1,
+                "pc": 90
+            }
+        },
+        {
+            "Horn Pad": {
+                "cc": 2,
+                "pc": 90
+            }
+        },
+        {
+            "Rotary Strng": {
+                "cc": 3,
+                "pc": 90
+            }
+        },
+        {
+            "OB Soft Pad": {
+                "cc": 4,
+                "pc": 90
+            }
+        },
+        {
+            "Sine Pad": {
+                "cc": 5,
+                "pc": 90
+            }
+        },
+        {
+            "OB Soft Pad2": {
+                "cc": 6,
+                "pc": 90
+            }
+        },
+        {
+            "Octave Pad": {
+                "cc": 8,
+                "pc": 90
+            }
+        },
+        {
+            "Stack Pad": {
+                "cc": 9,
+                "pc": 90
+            }
+        },
+        {
+            "Human Pad": {
+                "cc": 10,
+                "pc": 90
+            }
+        },
+        {
+            "Sync Brs.Pad": {
+                "cc": 11,
+                "pc": 90
+            }
+        },
+        {
+            "Oct.PWM Pad": {
+                "cc": 12,
+                "pc": 90
+            }
+        },
+        {
+            "JP Soft Pad": {
+                "cc": 13,
+                "pc": 90
+            }
+        },
+        {
+            "Polysynth": {
+                "cc": 0,
+                "pc": 91
+            }
+        },
+        {
+            "80's PolySyn": {
+                "cc": 1,
+                "pc": 91
+            }
+        },
+        {
+            "Polysynth 2": {
+                "cc": 2,
+                "pc": 91
+            }
+        },
+        {
+            "Poly King": {
+                "cc": 3,
+                "pc": 91
+            }
+        },
+        {
+            "Super Poly": {
+                "cc": 4,
+                "pc": 91
+            }
+        },
+        {
+            "Power Stack": {
+                "cc": 8,
+                "pc": 91
+            }
+        },
+        {
+            "Octave Stack": {
+                "cc": 9,
+                "pc": 91
+            }
+        },
+        {
+            "Reso Stack": {
+                "cc": 10,
+                "pc": 91
+            }
+        },
+        {
+            "Techno Stack": {
+                "cc": 11,
+                "pc": 91
+            }
+        },
+        {
+            "Pulse Stack": {
+                "cc": 12,
+                "pc": 91
+            }
+        },
+        {
+            "TwinOct.Rave": {
+                "cc": 13,
+                "pc": 91
+            }
+        },
+        {
+            "Oct.Rave": {
+                "cc": 14,
+                "pc": 91
+            }
+        },
+        {
+            "Happy Synth": {
+                "cc": 15,
+                "pc": 91
+            }
+        },
+        {
+            "ForwardSweep": {
+                "cc": 16,
+                "pc": 91
+            }
+        },
+        {
+            "ReverseSweep": {
+                "cc": 17,
+                "pc": 91
+            }
+        },
+        {
+            "Minor Rave": {
+                "cc": 24,
+                "pc": 91
+            }
+        },
+        {
+            "Space Voice": {
+                "cc": 0,
+                "pc": 92
+            }
+        },
+        {
+            "Heaven II": {
+                "cc": 1,
+                "pc": 92
+            }
+        },
+        {
+            "SC Heaven": {
+                "cc": 2,
+                "pc": 92
+            }
+        },
+        {
+            "Itopia": {
+                "cc": 3,
+                "pc": 92
+            }
+        },
+        {
+            "Water Space": {
+                "cc": 4,
+                "pc": 92
+            }
+        },
+        {
+            "Cold Space": {
+                "cc": 5,
+                "pc": 92
+            }
+        },
+        {
+            "Noise Peaker": {
+                "cc": 6,
+                "pc": 92
+            }
+        },
+        {
+            "Bamboo Hit": {
+                "cc": 7,
+                "pc": 92
+            }
+        },
+        {
+            "Cosmic Voice": {
+                "cc": 8,
+                "pc": 92
+            }
+        },
+        {
+            "Auh Vox": {
+                "cc": 9,
+                "pc": 92
+            }
+        },
+        {
+            "AuhAuh": {
+                "cc": 10,
+                "pc": 92
+            }
+        },
+        {
+            "Vocorderman": {
+                "cc": 11,
+                "pc": 92
+            }
+        },
+        {
+            "Holy Voices": {
+                "cc": 12,
+                "pc": 92
+            }
+        },
+        {
+            "Bowed Glass": {
+                "cc": 0,
+                "pc": 93
+            }
+        },
+        {
+            "SoftBellPad": {
+                "cc": 1,
+                "pc": 93
+            }
+        },
+        {
+            "JP8 Sqr Pad": {
+                "cc": 2,
+                "pc": 93
+            }
+        },
+        {
+            "7thBelPad": {
+                "cc": 3,
+                "pc": 93
+            }
+        },
+        {
+            "Steel Glass": {
+                "cc": 4,
+                "pc": 93
+            }
+        },
+        {
+            "Bottle Stack": {
+                "cc": 5,
+                "pc": 93
+            }
+        },
+        {
+            "Metal Pad": {
+                "cc": 0,
+                "pc": 94
+            }
+        },
+        {
+            "Tine Pad": {
+                "cc": 1,
+                "pc": 94
+            }
+        },
+        {
+            "Panner Pad": {
+                "cc": 2,
+                "pc": 94
+            }
+        },
+        {
+            "Steel Pad": {
+                "cc": 3,
+                "pc": 94
+            }
+        },
+        {
+            "Special Rave": {
+                "cc": 4,
+                "pc": 94
+            }
+        },
+        {
+            "Metal Pad 2": {
+                "cc": 5,
+                "pc": 94
+            }
+        },
+        {
+            "Halo Pad": {
+                "cc": 0,
+                "pc": 95
+            }
+        },
+        {
+            "Vox Pad": {
+                "cc": 1,
+                "pc": 95
+            }
+        },
+        {
+            "Vox Sweep": {
+                "cc": 2,
+                "pc": 95
+            }
+        },
+        {
+            "Horror Pad": {
+                "cc": 8,
+                "pc": 95
+            }
+        },
+        {
+            "SynVox Pad": {
+                "cc": 9,
+                "pc": 95
+            }
+        },
+        {
+            "SynVox Pad 2": {
+                "cc": 10,
+                "pc": 95
+            }
+        },
+        {
+            "Breath&Rise": {
+                "cc": 11,
+                "pc": 95
+            }
+        },
+        {
+            "Tears Voices": {
+                "cc": 12,
+                "pc": 95
+            }
+        },
+        {
+            "Sweep Pad": {
+                "cc": 0,
+                "pc": 96
+            }
+        },
+        {
+            "Polar Pad": {
+                "cc": 1,
+                "pc": 96
+            }
+        },
+        {
+            "Ambient BPF": {
+                "cc": 2,
+                "pc": 96
+            }
+        },
+        {
+            "Sync Pad": {
+                "cc": 3,
+                "pc": 96
+            }
+        },
+        {
+            "Warriors": {
+                "cc": 4,
+                "pc": 96
+            }
+        },
+        {
+            "Converge": {
+                "cc": 8,
+                "pc": 96
+            }
+        },
+        {
+            "Shwimmer": {
+                "cc": 9,
+                "pc": 96
+            }
+        },
+        {
+            "Celestial Pd": {
+                "cc": 10,
+                "pc": 96
+            }
+        },
+        {
+            "Bag Sweep": {
+                "cc": 11,
+                "pc": 96
+            }
+        },
+        {
+            "Sweep Pipe": {
+                "cc": 12,
+                "pc": 96
+            }
+        },
+        {
+            "Sweep Stack": {
+                "cc": 13,
+                "pc": 96
+            }
+        },
+        {
+            "Deep Sweep": {
+                "cc": 14,
+                "pc": 96
+            }
+        },
+        {
+            "Stray Pad": {
+                "cc": 15,
+                "pc": 96
+            }
+        }
+    ],
+    "str. orchestra": [
+        {
+            "Violin": {
+                "cc": 0,
+                "pc": 41
+            }
+        },
+        {
+            "Violin Atk": {
+                "cc": 1,
+                "pc": 41
+            }
+        },
+        {
+            "Slow Violin 1": {
+                "cc": 8,
+                "pc": 41
+            }
+        },
+        {
+            "Viola": {
+                "cc": 0,
+                "pc": 42
+            }
+        },
+        {
+            "Viola Atk.": {
+                "cc": 1,
+                "pc": 42
+            }
+        },
+        {
+            "Cello": {
+                "cc": 0,
+                "pc": 43
+            }
+        },
+        {
+            "Cello Atk.": {
+                "cc": 1,
+                "pc": 43
+            }
+        },
+        {
+            "Contrabass": {
+                "cc": 0,
+                "pc": 44
+            }
+        },
+        {
+            "Tremolo Str": {
+                "cc": 0,
+                "pc": 45
+            }
+        },
+        {
+            "Trem Str.": {
+                "cc": 2,
+                "pc": 45
+            }
+        },
+        {
+            "Slow Tremolo": {
+                "cc": 8,
+                "pc": 45
+            }
+        },
+        {
+            "Suspense Str": {
+                "cc": 9,
+                "pc": 45
+            }
+        },
+        {
+            "SuspenseStr": {
+                "cc": 10,
+                "pc": 45
+            }
+        },
+        {
+            "PizzicatoStr 1": {
+                "cc": 0,
+                "pc": 46
+            }
+        },
+        {
+            "Vcs&Cbs Pizz": {
+                "cc": 1,
+                "pc": 46
+            }
+        },
+        {
+            "Chamber Pizz": {
+                "cc": 2,
+                "pc": 46
+            }
+        },
+        {
+            "St.Pizzicato": {
+                "cc": 3,
+                "pc": 46
+            }
+        },
+        {
+            "Solo Pizz.": {
+                "cc": 8,
+                "pc": 46
+            }
+        },
+        {
+            "Solo Spic.": {
+                "cc": 16,
+                "pc": 46
+            }
+        },
+        {
+            "StringsSpic.": {
+                "cc": 17,
+                "pc": 46
+            }
+        },
+        {
+            "Harp1": {
+                "cc": 0,
+                "pc": 47
+            }
+        },
+        {
+            "Harp&Strings": {
+                "cc": 1,
+                "pc": 47
+            }
+        },
+        {
+            "Harp": {
+                "cc": 2,
+                "pc": 47
+            }
+        },
+        {
+            "Uillean Harp": {
+                "cc": 8,
+                "pc": 47
+            }
+        },
+        {
+            "Synth Harp": {
+                "cc": 16,
+                "pc": 47
+            }
+        },
+        {
+            "Yang Qin1": {
+                "cc": 24,
+                "pc": 47
+            }
+        },
+        {
+            "Yang Qin2": {
+                "cc": 25,
+                "pc": 47
+            }
+        },
+        {
+            "SynthYangQin": {
+                "cc": 26,
+                "pc": 47
+            }
+        },
+        {
+            "Timpani1": {
+                "cc": 0,
+                "pc": 48
+            }
+        }
+    ],
+    "ensemble": [
+        {
+            "Strings": {
+                "cc": 0,
+                "pc": 49
+            }
+        },
+        {
+            "Bright Str:": {
+                "cc": 1,
+                "pc": 49
+            }
+        },
+        {
+            "ChamberStr": {
+                "cc": 2,
+                "pc": 49
+            }
+        },
+        {
+            "Cello sect.": {
+                "cc": 3,
+                "pc": 49
+            }
+        },
+        {
+            "Bright Str.2": {
+                "cc": 4,
+                "pc": 49
+            }
+        },
+        {
+            "Bright Str.3": {
+                "cc": 5,
+                "pc": 49
+            }
+        },
+        {
+            "Quad Strings": {
+                "cc": 6,
+                "pc": 49
+            }
+        },
+        {
+            "Mild Strings": {
+                "cc": 7,
+                "pc": 49
+            }
+        },
+        {
+            "Orchestra": {
+                "cc": 8,
+                "pc": 49
+            }
+        },
+        {
+            "Orchestra 2": {
+                "cc": 9,
+                "pc": 49
+            }
+        },
+        {
+            "Tremolo Orch": {
+                "cc": 10,
+                "pc": 49
+            }
+        },
+        {
+            "Choir Str.": {
+                "cc": 11,
+                "pc": 49
+            }
+        },
+        {
+            "Strings+Horn": {
+                "cc": 12,
+                "pc": 49
+            }
+        },
+        {
+            "Str.+Flute": {
+                "cc": 13,
+                "pc": 49
+            }
+        },
+        {
+            "Choir Str.2": {
+                "cc": 14,
+                "pc": 49
+            }
+        },
+        {
+            "Choir Str.3": {
+                "cc": 15,
+                "pc": 49
+            }
+        },
+        {
+            "St. Strings": {
+                "cc": 16,
+                "pc": 49
+            }
+        },
+        {
+            "St.Strings 2": {
+                "cc": 17,
+                "pc": 49
+            }
+        },
+        {
+            "St.Strings 3": {
+                "cc": 18,
+                "pc": 49
+            }
+        },
+        {
+            "Orchestra 3": {
+                "cc": 19,
+                "pc": 49
+            }
+        },
+        {
+            "Orchestra 4": {
+                "cc": 20,
+                "pc": 49
+            }
+        },
+        {
+            "Velo Strings": {
+                "cc": 24,
+                "pc": 49
+            }
+        },
+        {
+            "Oct Strings1": {
+                "cc": 32,
+                "pc": 49
+            }
+        },
+        {
+            "Oct Strings2": {
+                "cc": 33,
+                "pc": 49
+            }
+        },
+        {
+            "ContraBsSect": {
+                "cc": 34,
+                "pc": 49
+            }
+        },
+        {
+            "60s Strings": {
+                "cc": 40,
+                "pc": 49
+            }
+        },
+        {
+            "Slow Strings": {
+                "cc": 0,
+                "pc": 50
+            }
+        },
+        {
+            "SlowStrings2": {
+                "cc": 1,
+                "pc": 50
+            }
+        },
+        {
+            "SlowStrings3": {
+                "cc": 2,
+                "pc": 50
+            }
+        },
+        {
+            "Legato Str.": {
+                "cc": 8,
+                "pc": 50
+            }
+        },
+        {
+            "Warm Strings": {
+                "cc": 9,
+                "pc": 50
+            }
+        },
+        {
+            "St.Slow Str.": {
+                "cc": 10,
+                "pc": 50
+            }
+        },
+        {
+            "St.Slow Str2": {
+                "cc": 11,
+                "pc": 50
+            }
+        },
+        {
+            "S.Str+Choir": {
+                "cc": 12,
+                "pc": 50
+            }
+        },
+        {
+            "S.Str+Choir2": {
+                "cc": 13,
+                "pc": 50
+            }
+        },
+        {
+            "Syn.Strings1": {
+                "cc": 0,
+                "pc": 51
+            }
+        },
+        {
+            "OB Strings": {
+                "cc": 1,
+                "pc": 51
+            }
+        },
+        {
+            "StackStrings": {
+                "cc": 2,
+                "pc": 51
+            }
+        },
+        {
+            "JP Strings": {
+                "cc": 3,
+                "pc": 51
+            }
+        },
+        {
+            "Chorus Str.": {
+                "cc": 4,
+                "pc": 51
+            }
+        },
+        {
+            "Syn.Strings3": {
+                "cc": 8,
+                "pc": 51
+            }
+        },
+        {
+            "Syn.Strings4": {
+                "cc": 9,
+                "pc": 51
+            }
+        },
+        {
+            "Syn.Strings6": {
+                "cc": 10,
+                "pc": 51
+            }
+        },
+        {
+            "Syn.Strings7": {
+                "cc": 11,
+                "pc": 51
+            }
+        },
+        {
+            "LoFi Strings": {
+                "cc": 12,
+                "pc": 51
+            }
+        },
+        {
+            "High Strings": {
+                "cc": 16,
+                "pc": 51
+            }
+        },
+        {
+            "Hybrid Str.": {
+                "cc": 17,
+                "pc": 51
+            }
+        },
+        {
+            "Tron Strings": {
+                "cc": 24,
+                "pc": 51
+            }
+        },
+        {
+            "Noiz Strings": {
+                "cc": 25,
+                "pc": 51
+            }
+        },
+        {
+            "Syn.Strings2": {
+                "cc": 0,
+                "pc": 52
+            }
+        },
+        {
+            "Syn.Strings5": {
+                "cc": 1,
+                "pc": 52
+            }
+        },
+        {
+            "JUNO Strings": {
+                "cc": 2,
+                "pc": 52
+            }
+        },
+        {
+            "FilteredOrch": {
+                "cc": 3,
+                "pc": 52
+            }
+        },
+        {
+            "JP Saw Str.": {
+                "cc": 4,
+                "pc": 52
+            }
+        },
+        {
+            "Hybrid Str.2": {
+                "cc": 5,
+                "pc": 52
+            }
+        },
+        {
+            "DistStrings": {
+                "cc": 6,
+                "pc": 52
+            }
+        },
+        {
+            "JUNOFullStr.": {
+                "cc": 7,
+                "pc": 52
+            }
+        },
+        {
+            "Air Strings": {
+                "cc": 8,
+                "pc": 52
+            }
+        },
+        {
+            "Atk Syn Str.": {
+                "cc": 9,
+                "pc": 52
+            }
+        },
+        {
+            "StraightStr.": {
+                "cc": 10,
+                "pc": 52
+            }
+        },
+        {
+            "Choir Aahs": {
+                "cc": 0,
+                "pc": 53
+            }
+        },
+        {
+            "St.ChoirAahs": {
+                "cc": 8,
+                "pc": 53
+            }
+        },
+        {
+            "Melted Choir": {
+                "cc": 9,
+                "pc": 53
+            }
+        },
+        {
+            "Church Choir": {
+                "cc": 10,
+                "pc": 53
+            }
+        },
+        {
+            "Boys Choir 1": {
+                "cc": 11,
+                "pc": 53
+            }
+        },
+        {
+            "Boys Choir 2": {
+                "cc": 12,
+                "pc": 53
+            }
+        },
+        {
+            "St.BoysChoir": {
+                "cc": 13,
+                "pc": 53
+            }
+        },
+        {
+            "Rich Choir": {
+                "cc": 14,
+                "pc": 53
+            }
+        },
+        {
+            "Choir Hahs": {
+                "cc": 16,
+                "pc": 53
+            }
+        },
+        {
+            "Chorus Lahs": {
+                "cc": 24,
+                "pc": 53
+            }
+        },
+        {
+            "Chorus Aahs": {
+                "cc": 32,
+                "pc": 53
+            }
+        },
+        {
+            "Male Aah+Str": {
+                "cc": 33,
+                "pc": 53
+            }
+        },
+        {
+            "Voice Oohs": {
+                "cc": 0,
+                "pc": 54
+            }
+        },
+        {
+            "Chorus Oohs": {
+                "cc": 1,
+                "pc": 54
+            }
+        },
+        {
+            "Voice Oohs 2": {
+                "cc": 2,
+                "pc": 54
+            }
+        },
+        {
+            "Chorus Oohs2": {
+                "cc": 3,
+                "pc": 54
+            }
+        },
+        {
+            "OohsCodeMaj7": {
+                "cc": 4,
+                "pc": 54
+            }
+        },
+        {
+            "OohsCodeSus4": {
+                "cc": 5,
+                "pc": 54
+            }
+        },
+        {
+            "Jazz Scat": {
+                "cc": 6,
+                "pc": 54
+            }
+        },
+        {
+            "Voice Dahs": {
+                "cc": 8,
+                "pc": 54
+            }
+        },
+        {
+            "JzVoice Dat": {
+                "cc": 9,
+                "pc": 54
+            }
+        },
+        {
+            "JzVoice Bap": {
+                "cc": 10,
+                "pc": 54
+            }
+        },
+        {
+            "JzVoice Dow": {
+                "cc": 11,
+                "pc": 54
+            }
+        },
+        {
+            "JzVoice Thum": {
+                "cc": 12,
+                "pc": 54
+            }
+        },
+        {
+            "VoiceLah Fem": {
+                "cc": 16,
+                "pc": 54
+            }
+        },
+        {
+            "ChorusLahFem": {
+                "cc": 17,
+                "pc": 54
+            }
+        },
+        {
+            "VoiceLuh Fem": {
+                "cc": 18,
+                "pc": 54
+            }
+        },
+        {
+            "ChorusLuhFem": {
+                "cc": 19,
+                "pc": 54
+            }
+        },
+        {
+            "VoiceLan Fem": {
+                "cc": 20,
+                "pc": 54
+            }
+        },
+        {
+            "ChorusLanFem": {
+                "cc": 21,
+                "pc": 54
+            }
+        },
+        {
+            "VoiceAah Fem": {
+                "cc": 22,
+                "pc": 54
+            }
+        },
+        {
+            "VoiceUuh Fem": {
+                "cc": 23,
+                "pc": 54
+            }
+        },
+        {
+            "Fem Lah&Lan": {
+                "cc": 24,
+                "pc": 54
+            }
+        },
+        {
+            "VoiceWah Mal": {
+                "cc": 32,
+                "pc": 54
+            }
+        },
+        {
+            "ChorusWahMal": {
+                "cc": 33,
+                "pc": 54
+            }
+        },
+        {
+            "VoiceWoh Mal": {
+                "cc": 34,
+                "pc": 54
+            }
+        },
+        {
+            "ChorusWohMal": {
+                "cc": 35,
+                "pc": 54
+            }
+        },
+        {
+            "VoiceAah Mal": {
+                "cc": 36,
+                "pc": 54
+            }
+        },
+        {
+            "VoiceOoh Mal": {
+                "cc": 37,
+                "pc": 54
+            }
+        },
+        {
+            "Humming": {
+                "cc": 40,
+                "pc": 54
+            }
+        },
+        {
+            "SynVox": {
+                "cc": 0,
+                "pc": 55
+            }
+        },
+        {
+            "SynVox 2": {
+                "cc": 1,
+                "pc": 55
+            }
+        },
+        {
+            "SynVox 3": {
+                "cc": 2,
+                "pc": 55
+            }
+        },
+        {
+            "Syn.Voice": {
+                "cc": 8,
+                "pc": 55
+            }
+        },
+        {
+            "Silent Night": {
+                "cc": 9,
+                "pc": 55
+            }
+        },
+        {
+            "Syn.Voice 2": {
+                "cc": 10,
+                "pc": 55
+            }
+        },
+        {
+            "VP330 Choir": {
+                "cc": 16,
+                "pc": 55
+            }
+        },
+        {
+            "Vinyl Choir": {
+                "cc": 17,
+                "pc": 55
+            }
+        },
+        {
+            "JX8P Vox": {
+                "cc": 18,
+                "pc": 55
+            }
+        },
+        {
+            "Analog Voice": {
+                "cc": 19,
+                "pc": 55
+            }
+        },
+        {
+            "OrchestraHit": {
+                "cc": 0,
+                "pc": 56
+            }
+        },
+        {
+            "Bass Hit": {
+                "cc": 1,
+                "pc": 56
+            }
+        },
+        {
+            "6th Hit": {
+                "cc": 2,
+                "pc": 56
+            }
+        },
+        {
+            "Euro Hit": {
+                "cc": 3,
+                "pc": 56
+            }
+        },
+        {
+            "Impact Hit": {
+                "cc": 8,
+                "pc": 56
+            }
+        },
+        {
+            "Philly Hit": {
+                "cc": 9,
+                "pc": 56
+            }
+        },
+        {
+            "Double Hit": {
+                "cc": 10,
+                "pc": 56
+            }
+        },
+        {
+            "Perc. Hit": {
+                "cc": 11,
+                "pc": 56
+            }
+        },
+        {
+            "Shock Wave": {
+                "cc": 12,
+                "pc": 56
+            }
+        },
+        {
+            "Bounce Hit": {
+                "cc": 13,
+                "pc": 56
+            }
+        },
+        {
+            "Drill Hit": {
+                "cc": 14,
+                "pc": 56
+            }
+        },
+        {
+            "Thrill Hit": {
+                "cc": 15,
+                "pc": 56
+            }
+        },
+        {
+            "Lo Fi Rave": {
+                "cc": 16,
+                "pc": 56
+            }
+        },
+        {
+            "Techno Hit": {
+                "cc": 17,
+                "pc": 56
+            }
+        },
+        {
+            "Dist. Hit": {
+                "cc": 18,
+                "pc": 56
+            }
+        },
+        {
+            "Bam Hit": {
+                "cc": 19,
+                "pc": 56
+            }
+        },
+        {
+            "Bit Hit": {
+                "cc": 20,
+                "pc": 56
+            }
+        },
+        {
+            "Bim Hit": {
+                "cc": 21,
+                "pc": 56
+            }
+        },
+        {
+            "Technorg Hit": {
+                "cc": 22,
+                "pc": 56
+            }
+        },
+        {
+            "Rave Hit": {
+                "cc": 23,
+                "pc": 56
+            }
+        },
+        {
+            "Strings Hit": {
+                "cc": 24,
+                "pc": 56
+            }
+        },
+        {
+            "Stack Hit": {
+                "cc": 25,
+                "pc": 56
+            }
+        },
+        {
+            "Industry Hit": {
+                "cc": 26,
+                "pc": 56
+            }
+        },
+        {
+            "Clap Hit": {
+                "cc": 27,
+                "pc": 56
+            }
+        }
+    ],
+    "reed": [
+        {
+            "Soprano Sax": {
+                "cc": 0,
+                "pc": 65
+            }
+        },
+        {
+            "Soprano Exp.": {
+                "cc": 8,
+                "pc": 65
+            }
+        },
+        {
+            "Alto Sax": {
+                "cc": 0,
+                "pc": 66
+            }
+        },
+        {
+            "AltoSax Exp.": {
+                "cc": 8,
+                "pc": 66
+            }
+        },
+        {
+            "Grow Sax": {
+                "cc": 9,
+                "pc": 66
+            }
+        },
+        {
+            "AltoSax + Tp": {
+                "cc": 16,
+                "pc": 66
+            }
+        },
+        {
+            "Sax Section": {
+                "cc": 17,
+                "pc": 66
+            }
+        },
+        {
+            "Tenor Sax": {
+                "cc": 0,
+                "pc": 67
+            }
+        },
+        {
+            "Tenor Sax :": {
+                "cc": 1,
+                "pc": 67
+            }
+        },
+        {
+            "BreathyTn.:": {
+                "cc": 8,
+                "pc": 67
+            }
+        },
+        {
+            "St.Tenor Sax": {
+                "cc": 9,
+                "pc": 67
+            }
+        },
+        {
+            "Baritone Sax": {
+                "cc": 0,
+                "pc": 68
+            }
+        },
+        {
+            "Bari. Sax :": {
+                "cc": 1,
+                "pc": 68
+            }
+        },
+        {
+            "Bari & Tenor": {
+                "cc": 8,
+                "pc": 68
+            }
+        },
+        {
+            "Oboe": {
+                "cc": 0,
+                "pc": 69
+            }
+        },
+        {
+            "Oboe Exp.": {
+                "cc": 8,
+                "pc": 69
+            }
+        },
+        {
+            "Multi Reed": {
+                "cc": 16,
+                "pc": 69
+            }
+        },
+        {
+            "English Horn": {
+                "cc": 0,
+                "pc": 70
+            }
+        },
+        {
+            "Bassoon": {
+                "cc": 0,
+                "pc": 71
+            }
+        },
+        {
+            "Clarinet": {
+                "cc": 0,
+                "pc": 72
+            }
+        },
+        {
+            "Bs Clarinet": {
+                "cc": 8,
+                "pc": 72
+            }
+        },
+        {
+            "Multi Wind": {
+                "cc": 16,
+                "pc": 72
+            }
+        },
+        {
+            "Quad Wind": {
+                "cc": 17,
+                "pc": 72
+            }
+        }
+    ],
+    "pipe": [
+        {
+            "Piccolo": {
+                "cc": 0,
+                "pc": 73
+            }
+        },
+        {
+            "Piccolo:": {
+                "cc": 1,
+                "pc": 73
+            }
+        },
+        {
+            "Nay": {
+                "cc": 8,
+                "pc": 73
+            }
+        },
+        {
+            "Nay Tremolo": {
+                "cc": 9,
+                "pc": 73
+            }
+        },
+        {
+            "Di": {
+                "cc": 16,
+                "pc": 73
+            }
+        },
+        {
+            "Flute": {
+                "cc": 0,
+                "pc": 74
+            }
+        },
+        {
+            "Flute 2:": {
+                "cc": 1,
+                "pc": 74
+            }
+        },
+        {
+            "Flute Exp.": {
+                "cc": 2,
+                "pc": 74
+            }
+        },
+        {
+            "Flt Travelso": {
+                "cc": 3,
+                "pc": 74
+            }
+        },
+        {
+            "Flute + Vln": {
+                "cc": 8,
+                "pc": 74
+            }
+        },
+        {
+            "Pipe & Reed": {
+                "cc": 9,
+                "pc": 74
+            }
+        },
+        {
+            "Tron Flute": {
+                "cc": 16,
+                "pc": 74
+            }
+        },
+        {
+            "Indian Flute": {
+                "cc": 17,
+                "pc": 74
+            }
+        },
+        {
+            "Recorder": {
+                "cc": 0,
+                "pc": 75
+            }
+        },
+        {
+            "Pan Flute": {
+                "cc": 0,
+                "pc": 76
+            }
+        },
+        {
+            "Kawala": {
+                "cc": 8,
+                "pc": 76
+            }
+        },
+        {
+            "Zampona": {
+                "cc": 16,
+                "pc": 76
+            }
+        },
+        {
+            "Zampona Atk": {
+                "cc": 17,
+                "pc": 76
+            }
+        },
+        {
+            "Tin Whistle": {
+                "cc": 24,
+                "pc": 76
+            }
+        },
+        {
+            "TinWhtsle Nm": {
+                "cc": 25,
+                "pc": 76
+            }
+        },
+        {
+            "TinWhtsle Or": {
+                "cc": 26,
+                "pc": 76
+            }
+        },
+        {
+            "Bottle Blow": {
+                "cc": 0,
+                "pc": 77
+            }
+        },
+        {
+            "Shakuhachi": {
+                "cc": 0,
+                "pc": 78
+            }
+        },
+        {
+            "Shakuhachi:": {
+                "cc": 1,
+                "pc": 78
+            }
+        },
+        {
+            "Whistle": {
+                "cc": 0,
+                "pc": 79
+            }
+        },
+        {
+            "Whistle 2": {
+                "cc": 1,
+                "pc": 79
+            }
+        },
+        {
+            "Ocarina": {
+                "cc": 0,
+                "pc": 80
+            }
+        }
     ]
 }
