@@ -1,0 +1,6042 @@
+{
+    "piano": [
+        {
+            "Piano 1": {
+                "cc": 0,
+                "pc": 1
+            }
+        },
+        {
+            "UprightPiano": {
+                "cc": 1,
+                "pc": 1
+            }
+        },
+        {
+            "Mild Piano": {
+                "cc": 2,
+                "pc": 1
+            }
+        },
+        {
+            "Upright P w": {
+                "cc": 8,
+                "pc": 1
+            }
+        },
+        {
+            "Mild Piano w": {
+                "cc": 9,
+                "pc": 1
+            }
+        },
+        {
+            "European Pf": {
+                "cc": 16,
+                "pc": 1
+            }
+        },
+        {
+            "Piano + Str.": {
+                "cc": 24,
+                "pc": 1
+            }
+        },
+        {
+            "Piano + Str2": {
+                "cc": 25,
+                "pc": 1
+            }
+        },
+        {
+            "Piano+Choir1": {
+                "cc": 26,
+                "pc": 1
+            }
+        },
+        {
+            "Piano+Choir2": {
+                "cc": 27,
+                "pc": 1
+            }
+        },
+        {
+            "Piano 2": {
+                "cc": 0,
+                "pc": 2
+            }
+        },
+        {
+            "Pop Piano": {
+                "cc": 1,
+                "pc": 2
+            }
+        },
+        {
+            "Rock Piano": {
+                "cc": 2,
+                "pc": 2
+            }
+        },
+        {
+            "Pop Piano w": {
+                "cc": 8,
+                "pc": 2
+            }
+        },
+        {
+            "Rock Piano w": {
+                "cc": 9,
+                "pc": 2
+            }
+        },
+        {
+            "Dance Piano": {
+                "cc": 16,
+                "pc": 2
+            }
+        },
+        {
+            "Piano 3": {
+                "cc": 0,
+                "pc": 3
+            }
+        },
+        {
+            "EG+Rhodes 1": {
+                "cc": 1,
+                "pc": 3
+            }
+        },
+        {
+            "EG+Rhodes 2": {
+                "cc": 2,
+                "pc": 3
+            }
+        },
+        {
+            "Piano 3w": {
+                "cc": 8,
+                "pc": 3
+            }
+        },
+        {
+            "Honky-tonk": {
+                "cc": 0,
+                "pc": 4
+            }
+        },
+        {
+            "Honky-tonk 2": {
+                "cc": 8,
+                "pc": 4
+            }
+        },
+        {
+            "E.Piano 1": {
+                "cc": 0,
+                "pc": 5
+            }
+        },
+        {
+            "St.Soft EP": {
+                "cc": 8,
+                "pc": 5
+            }
+        },
+        {
+            "Cho. E.Piano": {
+                "cc": 9,
+                "pc": 5
+            }
+        },
+        {
+            "SilentRhodes": {
+                "cc": 10,
+                "pc": 5
+            }
+        },
+        {
+            "FM+SA EP": {
+                "cc": 16,
+                "pc": 5
+            }
+        },
+        {
+            "Dist E.Piano": {
+                "cc": 17,
+                "pc": 5
+            }
+        },
+        {
+            "Wurly": {
+                "cc": 24,
+                "pc": 5
+            }
+        },
+        {
+            "Hard Rhodes": {
+                "cc": 25,
+                "pc": 5
+            }
+        },
+        {
+            "MellowRhodes": {
+                "cc": 26,
+                "pc": 5
+            }
+        },
+        {
+            "E.Piano 2": {
+                "cc": 0,
+                "pc": 6
+            }
+        },
+        {
+            "E.Piano 3": {
+                "cc": 1,
+                "pc": 6
+            }
+        },
+        {
+            "Detuned EP 2": {
+                "cc": 8,
+                "pc": 6
+            }
+        },
+        {
+            "Detuned EP 3": {
+                "cc": 9,
+                "pc": 6
+            }
+        },
+        {
+            "EP Legend": {
+                "cc": 10,
+                "pc": 6
+            }
+        },
+        {
+            "St.FM EP": {
+                "cc": 16,
+                "pc": 6
+            }
+        },
+        {
+            "Hard FM EP": {
+                "cc": 24,
+                "pc": 6
+            }
+        },
+        {
+            "EP Phase": {
+                "cc": 32,
+                "pc": 6
+            }
+        },
+        {
+            "Harpsichord": {
+                "cc": 0,
+                "pc": 7
+            }
+        },
+        {
+            "Harpsichord2": {
+                "cc": 1,
+                "pc": 7
+            }
+        },
+        {
+            "Harpsichord3": {
+                "cc": 2,
+                "pc": 7
+            }
+        },
+        {
+            "Coupled Hps.": {
+                "cc": 8,
+                "pc": 7
+            }
+        },
+        {
+            "Harpsi.w": {
+                "cc": 16,
+                "pc": 7
+            }
+        },
+        {
+            "Harpsi.o": {
+                "cc": 24,
+                "pc": 7
+            }
+        },
+        {
+            "Synth Harpsi": {
+                "cc": 32,
+                "pc": 7
+            }
+        },
+        {
+            "Clav.": {
+                "cc": 0,
+                "pc": 8
+            }
+        },
+        {
+            "Clav. 2": {
+                "cc": 1,
+                "pc": 8
+            }
+        },
+        {
+            "Atk Clav.1": {
+                "cc": 2,
+                "pc": 8
+            }
+        },
+        {
+            "Atk Clav.2": {
+                "cc": 3,
+                "pc": 8
+            }
+        },
+        {
+            "Comp Clav.": {
+                "cc": 8,
+                "pc": 8
+            }
+        },
+        {
+            "Reso Clav.": {
+                "cc": 16,
+                "pc": 8
+            }
+        },
+        {
+            "Phase Clav": {
+                "cc": 17,
+                "pc": 8
+            }
+        },
+        {
+            "Clav.o": {
+                "cc": 24,
+                "pc": 8
+            }
+        },
+        {
+            "Analog Clav.": {
+                "cc": 32,
+                "pc": 8
+            }
+        },
+        {
+            "JP8 Clav. 1": {
+                "cc": 33,
+                "pc": 8
+            }
+        },
+        {
+            "JP8 Clav. 2": {
+                "cc": 35,
+                "pc": 8
+            }
+        },
+        {
+            "SynRingClav.": {
+                "cc": 36,
+                "pc": 8
+            }
+        },
+        {
+            "SynDistClav.": {
+                "cc": 37,
+                "pc": 8
+            }
+        },
+        {
+            "JP8000 Clav.": {
+                "cc": 38,
+                "pc": 8
+            }
+        },
+        {
+            "Pulse Clav": {
+                "cc": 39,
+                "pc": 8
+            }
+        }
+    ],
+    "organ": [
+        {
+            "Organ 1": {
+                "cc": 0,
+                "pc": 17
+            }
+        },
+        {
+            "Organ 101": {
+                "cc": 1,
+                "pc": 17
+            }
+        },
+        {
+            "Ful Organ 1": {
+                "cc": 2,
+                "pc": 17
+            }
+        },
+        {
+            "Ful Organ 2": {
+                "cc": 3,
+                "pc": 17
+            }
+        },
+        {
+            "Ful Organ 3": {
+                "cc": 4,
+                "pc": 17
+            }
+        },
+        {
+            "Ful Organ 4": {
+                "cc": 5,
+                "pc": 17
+            }
+        },
+        {
+            "Ful Organ 5": {
+                "cc": 6,
+                "pc": 17
+            }
+        },
+        {
+            "Ful Organ 6": {
+                "cc": 7,
+                "pc": 17
+            }
+        },
+        {
+            "Trem. Organ": {
+                "cc": 8,
+                "pc": 17
+            }
+        },
+        {
+            "Organ o": {
+                "cc": 9,
+                "pc": 17
+            }
+        },
+        {
+            "Ful Organ 7": {
+                "cc": 10,
+                "pc": 17
+            }
+        },
+        {
+            "Ful Organ 8": {
+                "cc": 11,
+                "pc": 17
+            }
+        },
+        {
+            "Ful Organ 9": {
+                "cc": 12,
+                "pc": 17
+            }
+        },
+        {
+            "60's Organ 1": {
+                "cc": 16,
+                "pc": 17
+            }
+        },
+        {
+            "60's Organ 2": {
+                "cc": 17,
+                "pc": 17
+            }
+        },
+        {
+            "60's Organ 3": {
+                "cc": 18,
+                "pc": 17
+            }
+        },
+        {
+            "Farf Organ": {
+                "cc": 19,
+                "pc": 17
+            }
+        },
+        {
+            "Cheese Organ": {
+                "cc": 24,
+                "pc": 17
+            }
+        },
+        {
+            "D-50 Organ": {
+                "cc": 25,
+                "pc": 17
+            }
+        },
+        {
+            "JUNO Organ": {
+                "cc": 26,
+                "pc": 17
+            }
+        },
+        {
+            "Hybrid Organ": {
+                "cc": 27,
+                "pc": 17
+            }
+        },
+        {
+            "VS Organ": {
+                "cc": 28,
+                "pc": 17
+            }
+        },
+        {
+            "Digi Church": {
+                "cc": 29,
+                "pc": 17
+            }
+        },
+        {
+            "JX-8P Organ": {
+                "cc": 30,
+                "pc": 17
+            }
+        },
+        {
+            "FM Organ": {
+                "cc": 31,
+                "pc": 17
+            }
+        },
+        {
+            "70's E.Organ": {
+                "cc": 32,
+                "pc": 17
+            }
+        },
+        {
+            "Even Bar": {
+                "cc": 33,
+                "pc": 17
+            }
+        },
+        {
+            "Organ Bass": {
+                "cc": 40,
+                "pc": 17
+            }
+        },
+        {
+            "5th Organ": {
+                "cc": 48,
+                "pc": 17
+            }
+        },
+        {
+            "Organ 2": {
+                "cc": 0,
+                "pc": 18
+            }
+        },
+        {
+            "Jazz Organ": {
+                "cc": 1,
+                "pc": 18
+            }
+        },
+        {
+            "E.Organ 16+2": {
+                "cc": 2,
+                "pc": 18
+            }
+        },
+        {
+            "Jazz Organ 2": {
+                "cc": 3,
+                "pc": 18
+            }
+        },
+        {
+            "Jazz Organ 3": {
+                "cc": 4,
+                "pc": 18
+            }
+        },
+        {
+            "Jazz Organ 4": {
+                "cc": 5,
+                "pc": 18
+            }
+        },
+        {
+            "Jazz Organ 5": {
+                "cc": 6,
+                "pc": 18
+            }
+        },
+        {
+            "Jazz Organ 6": {
+                "cc": 7,
+                "pc": 18
+            }
+        },
+        {
+            "Chorus Or.2": {
+                "cc": 8,
+                "pc": 18
+            }
+        },
+        {
+            "Octave Organ": {
+                "cc": 9,
+                "pc": 18
+            }
+        },
+        {
+            "Perc. Organ": {
+                "cc": 32,
+                "pc": 18
+            }
+        },
+        {
+            "Perc.Organ 2": {
+                "cc": 33,
+                "pc": 18
+            }
+        },
+        {
+            "Perc.Organ 3": {
+                "cc": 34,
+                "pc": 18
+            }
+        },
+        {
+            "Perc.Organ 4": {
+                "cc": 35,
+                "pc": 18
+            }
+        },
+        {
+            "Organ 3": {
+                "cc": 0,
+                "pc": 19
+            }
+        },
+        {
+            "Rotary Org.": {
+                "cc": 8,
+                "pc": 19
+            }
+        },
+        {
+            "Rotary Org.S": {
+                "cc": 16,
+                "pc": 19
+            }
+        },
+        {
+            "Rock Organ 1": {
+                "cc": 17,
+                "pc": 19
+            }
+        },
+        {
+            "Rock Organ 2": {
+                "cc": 18,
+                "pc": 19
+            }
+        },
+        {
+            "Rotary Org.F": {
+                "cc": 24,
+                "pc": 19
+            }
+        },
+        {
+            "Church Org.1": {
+                "cc": 0,
+                "pc": 20
+            }
+        },
+        {
+            "Church Org.2": {
+                "cc": 8,
+                "pc": 20
+            }
+        },
+        {
+            "Church Org.3": {
+                "cc": 16,
+                "pc": 20
+            }
+        },
+        {
+            "Organ Flute": {
+                "cc": 24,
+                "pc": 20
+            }
+        },
+        {
+            "Trem.Flute": {
+                "cc": 32,
+                "pc": 20
+            }
+        },
+        {
+            "Theater Org.": {
+                "cc": 33,
+                "pc": 20
+            }
+        },
+        {
+            "Reed Organ": {
+                "cc": 0,
+                "pc": 21
+            }
+        },
+        {
+            "Wind Organ": {
+                "cc": 8,
+                "pc": 21
+            }
+        },
+        {
+            "Puff Organ": {
+                "cc": 16,
+                "pc": 21
+            }
+        },
+        {
+            "Accordion Fr": {
+                "cc": 0,
+                "pc": 22
+            }
+        },
+        {
+            "Accordion It": {
+                "cc": 8,
+                "pc": 22
+            }
+        },
+        {
+            "Dist. Accord": {
+                "cc": 9,
+                "pc": 22
+            }
+        },
+        {
+            "Cho. Accord": {
+                "cc": 16,
+                "pc": 22
+            }
+        },
+        {
+            "Hard Accord": {
+                "cc": 24,
+                "pc": 22
+            }
+        },
+        {
+            "Soft Accord": {
+                "cc": 25,
+                "pc": 22
+            }
+        },
+        {
+            "Harmonica": {
+                "cc": 0,
+                "pc": 23
+            }
+        },
+        {
+            "Harmonica 2": {
+                "cc": 1,
+                "pc": 23
+            }
+        },
+        {
+            "B.Harp Basic": {
+                "cc": 8,
+                "pc": 23
+            }
+        },
+        {
+            "B.Harp Suppl": {
+                "cc": 9,
+                "pc": 23
+            }
+        },
+        {
+            "Bandoneon": {
+                "cc": 0,
+                "pc": 24
+            }
+        },
+        {
+            "Bandoneon 2": {
+                "cc": 8,
+                "pc": 24
+            }
+        },
+        {
+            "Bandoneon 3": {
+                "cc": 16,
+                "pc": 24
+            }
+        }
+    ],
+    "bass": [
+        {
+            "Acoustic Bs.": {
+                "cc": 0,
+                "pc": 33
+            }
+        },
+        {
+            "Rockabilly": {
+                "cc": 1,
+                "pc": 33
+            }
+        },
+        {
+            "Wild A.Bass": {
+                "cc": 8,
+                "pc": 33
+            }
+        },
+        {
+            "Atk A.Bass": {
+                "cc": 9,
+                "pc": 33
+            }
+        },
+        {
+            "Bass + OHH": {
+                "cc": 16,
+                "pc": 33
+            }
+        },
+        {
+            "Fingered Bs.": {
+                "cc": 0,
+                "pc": 34
+            }
+        },
+        {
+            "Fingered Bs2": {
+                "cc": 1,
+                "pc": 34
+            }
+        },
+        {
+            "Jazz Bass": {
+                "cc": 2,
+                "pc": 34
+            }
+        },
+        {
+            "Jazz Bass 2": {
+                "cc": 3,
+                "pc": 34
+            }
+        },
+        {
+            "Rock Bass": {
+                "cc": 4,
+                "pc": 34
+            }
+        },
+        {
+            "Heart Bass": {
+                "cc": 5,
+                "pc": 34
+            }
+        },
+        {
+            "AttackFinger": {
+                "cc": 6,
+                "pc": 34
+            }
+        },
+        {
+            "Finger Slap": {
+                "cc": 7,
+                "pc": 34
+            }
+        },
+        {
+            "ChorusJazzBs": {
+                "cc": 8,
+                "pc": 34
+            }
+        },
+        {
+            "F.Bass/Harm.": {
+                "cc": 16,
+                "pc": 34
+            }
+        },
+        {
+            "Picked Bass": {
+                "cc": 0,
+                "pc": 35
+            }
+        },
+        {
+            "Picked Bass2": {
+                "cc": 1,
+                "pc": 35
+            }
+        },
+        {
+            "Picked Bass3": {
+                "cc": 2,
+                "pc": 35
+            }
+        },
+        {
+            "Picked Bass4": {
+                "cc": 3,
+                "pc": 35
+            }
+        },
+        {
+            "Double Pick": {
+                "cc": 4,
+                "pc": 35
+            }
+        },
+        {
+            "Muted PickBs": {
+                "cc": 8,
+                "pc": 35
+            }
+        },
+        {
+            "P.Bass/Harm.": {
+                "cc": 16,
+                "pc": 35
+            }
+        },
+        {
+            "Fretless Bs.": {
+                "cc": 0,
+                "pc": 36
+            }
+        },
+        {
+            "Fretless Bs2": {
+                "cc": 1,
+                "pc": 36
+            }
+        },
+        {
+            "Fretless Bs3": {
+                "cc": 2,
+                "pc": 36
+            }
+        },
+        {
+            "Fretless Bs4": {
+                "cc": 3,
+                "pc": 36
+            }
+        },
+        {
+            "Syn Fretless": {
+                "cc": 4,
+                "pc": 36
+            }
+        },
+        {
+            "Mr.Smooth": {
+                "cc": 5,
+                "pc": 36
+            }
+        },
+        {
+            "Wood+FlessBs": {
+                "cc": 8,
+                "pc": 36
+            }
+        },
+        {
+            "Slap Bass 1": {
+                "cc": 0,
+                "pc": 37
+            }
+        },
+        {
+            "Slap Pop": {
+                "cc": 1,
+                "pc": 37
+            }
+        },
+        {
+            "Reso Slap": {
+                "cc": 8,
+                "pc": 37
+            }
+        },
+        {
+            "Unison Slap": {
+                "cc": 9,
+                "pc": 37
+            }
+        },
+        {
+            "Slap Bass 2": {
+                "cc": 0,
+                "pc": 38
+            }
+        },
+        {
+            "Slap Bass 3": {
+                "cc": 1,
+                "pc": 38
+            }
+        },
+        {
+            "FM Slap": {
+                "cc": 8,
+                "pc": 38
+            }
+        },
+        {
+            "Synth Bass 1": {
+                "cc": 0,
+                "pc": 39
+            }
+        },
+        {
+            "SynthBass101": {
+                "cc": 1,
+                "pc": 39
+            }
+        },
+        {
+            "CS Bass": {
+                "cc": 2,
+                "pc": 39
+            }
+        },
+        {
+            "JP-4 Bass": {
+                "cc": 3,
+                "pc": 39
+            }
+        },
+        {
+            "JP-8 Bass": {
+                "cc": 4,
+                "pc": 39
+            }
+        },
+        {
+            "P5 Bass": {
+                "cc": 5,
+                "pc": 39
+            }
+        },
+        {
+            "JPMG Bass": {
+                "cc": 6,
+                "pc": 39
+            }
+        },
+        {
+            "Acid Bass": {
+                "cc": 8,
+                "pc": 39
+            }
+        },
+        {
+            "TB303 Bass": {
+                "cc": 9,
+                "pc": 39
+            }
+        },
+        {
+            "Tekno Bass": {
+                "cc": 10,
+                "pc": 39
+            }
+        },
+        {
+            "TB303 Bass 2": {
+                "cc": 11,
+                "pc": 39
+            }
+        },
+        {
+            "Kicked TB303": {
+                "cc": 12,
+                "pc": 39
+            }
+        },
+        {
+            "TB303 Saw Bs": {
+                "cc": 13,
+                "pc": 39
+            }
+        },
+        {
+            "Rubber303 Bs": {
+                "cc": 14,
+                "pc": 39
+            }
+        },
+        {
+            "Reso 303 Bs": {
+                "cc": 15,
+                "pc": 39
+            }
+        },
+        {
+            "Reso SH Bass": {
+                "cc": 16,
+                "pc": 39
+            }
+        },
+        {
+            "TB303 Sqr Bs": {
+                "cc": 17,
+                "pc": 39
+            }
+        },
+        {
+            "TB303 DistBs": {
+                "cc": 18,
+                "pc": 39
+            }
+        },
+        {
+            "Clavi Bass": {
+                "cc": 19,
+                "pc": 39
+            }
+        },
+        {
+            "Hammer": {
+                "cc": 20,
+                "pc": 39
+            }
+        },
+        {
+            "Jungle Bass": {
+                "cc": 21,
+                "pc": 39
+            }
+        },
+        {
+            "Square Bass": {
+                "cc": 22,
+                "pc": 39
+            }
+        },
+        {
+            "Square Bass2": {
+                "cc": 23,
+                "pc": 39
+            }
+        },
+        {
+            "Arpeggio Bs": {
+                "cc": 24,
+                "pc": 39
+            }
+        },
+        {
+            "Hit&Saw Bass": {
+                "cc": 32,
+                "pc": 39
+            }
+        },
+        {
+            "Ring Bass": {
+                "cc": 33,
+                "pc": 39
+            }
+        },
+        {
+            "AtkSineBass": {
+                "cc": 34,
+                "pc": 39
+            }
+        },
+        {
+            "OB sine Bass": {
+                "cc": 35,
+                "pc": 39
+            }
+        },
+        {
+            "Auxiliary Bs": {
+                "cc": 36,
+                "pc": 39
+            }
+        },
+        {
+            "303SqDistBs": {
+                "cc": 40,
+                "pc": 39
+            }
+        },
+        {
+            "303SqDistBs2": {
+                "cc": 41,
+                "pc": 39
+            }
+        },
+        {
+            "303SqDistBs3": {
+                "cc": 42,
+                "pc": 39
+            }
+        },
+        {
+            "303Sqr.Rev": {
+                "cc": 43,
+                "pc": 39
+            }
+        },
+        {
+            "TeeBee": {
+                "cc": 44,
+                "pc": 39
+            }
+        },
+        {
+            "Synth Bass 2": {
+                "cc": 0,
+                "pc": 40
+            }
+        },
+        {
+            "SynthBass201": {
+                "cc": 1,
+                "pc": 40
+            }
+        },
+        {
+            "Modular Bass": {
+                "cc": 2,
+                "pc": 40
+            }
+        },
+        {
+            "Seq Bass": {
+                "cc": 3,
+                "pc": 40
+            }
+        },
+        {
+            "MG Bass": {
+                "cc": 4,
+                "pc": 40
+            }
+        },
+        {
+            "Mg Oct Bass1": {
+                "cc": 5,
+                "pc": 40
+            }
+        },
+        {
+            "MG Oct Bass2": {
+                "cc": 6,
+                "pc": 40
+            }
+        },
+        {
+            "MG Blip Bs:": {
+                "cc": 7,
+                "pc": 40
+            }
+        },
+        {
+            "Beef FM Bass": {
+                "cc": 8,
+                "pc": 40
+            }
+        },
+        {
+            "Dly Bass": {
+                "cc": 9,
+                "pc": 40
+            }
+        },
+        {
+            "X Wire Bass": {
+                "cc": 10,
+                "pc": 40
+            }
+        },
+        {
+            "WireStr Bass": {
+                "cc": 11,
+                "pc": 40
+            }
+        },
+        {
+            "Blip Bass :": {
+                "cc": 12,
+                "pc": 40
+            }
+        },
+        {
+            "RubberBass 1": {
+                "cc": 13,
+                "pc": 40
+            }
+        },
+        {
+            "Syn Bell Bs": {
+                "cc": 14,
+                "pc": 40
+            }
+        },
+        {
+            "Odd Bass": {
+                "cc": 15,
+                "pc": 40
+            }
+        },
+        {
+            "RubberBass 2": {
+                "cc": 16,
+                "pc": 40
+            }
+        },
+        {
+            "SH101 Bass 1": {
+                "cc": 17,
+                "pc": 40
+            }
+        },
+        {
+            "SH101 Bass 2": {
+                "cc": 18,
+                "pc": 40
+            }
+        },
+        {
+            "Smooth Bass": {
+                "cc": 19,
+                "pc": 40
+            }
+        },
+        {
+            "SH101 Bass 3": {
+                "cc": 20,
+                "pc": 40
+            }
+        },
+        {
+            "Spike Bass": {
+                "cc": 21,
+                "pc": 40
+            }
+        },
+        {
+            "House Bass:": {
+                "cc": 22,
+                "pc": 40
+            }
+        },
+        {
+            "KG Bass": {
+                "cc": 23,
+                "pc": 40
+            }
+        },
+        {
+            "Sync Bass": {
+                "cc": 24,
+                "pc": 40
+            }
+        },
+        {
+            "MG 5th Bass": {
+                "cc": 25,
+                "pc": 40
+            }
+        },
+        {
+            "RND Bass": {
+                "cc": 26,
+                "pc": 40
+            }
+        },
+        {
+            "WowMG Bass": {
+                "cc": 27,
+                "pc": 40
+            }
+        },
+        {
+            "Bubble Bass": {
+                "cc": 28,
+                "pc": 40
+            }
+        },
+        {
+            "Attack Pulse": {
+                "cc": 29,
+                "pc": 40
+            }
+        },
+        {
+            "Sync Bass 2": {
+                "cc": 30,
+                "pc": 40
+            }
+        },
+        {
+            "Pulse Mix Bs": {
+                "cc": 31,
+                "pc": 40
+            }
+        },
+        {
+            "MG Dist Bass": {
+                "cc": 32,
+                "pc": 40
+            }
+        },
+        {
+            "Seq Bass 2": {
+                "cc": 33,
+                "pc": 40
+            }
+        },
+        {
+            "3rd Bass": {
+                "cc": 34,
+                "pc": 40
+            }
+        },
+        {
+            "MG Oct Bass": {
+                "cc": 35,
+                "pc": 40
+            }
+        },
+        {
+            "SlowEnvBass": {
+                "cc": 36,
+                "pc": 40
+            }
+        },
+        {
+            "Mild Bass": {
+                "cc": 37,
+                "pc": 40
+            }
+        },
+        {
+            "DistEnvBass": {
+                "cc": 38,
+                "pc": 40
+            }
+        },
+        {
+            "MG LightBass": {
+                "cc": 39,
+                "pc": 40
+            }
+        },
+        {
+            "DistSynBass": {
+                "cc": 40,
+                "pc": 40
+            }
+        },
+        {
+            "Rise Bass": {
+                "cc": 41,
+                "pc": 40
+            }
+        },
+        {
+            "Cyber Bass": {
+                "cc": 42,
+                "pc": 40
+            }
+        }
+    ],
+    "guitar": [
+        {
+            "Nylon-str.Gt": {
+                "cc": 0,
+                "pc": 25
+            }
+        },
+        {
+            "Ukulele": {
+                "cc": 8,
+                "pc": 25
+            }
+        },
+        {
+            "Nylon Gt.o": {
+                "cc": 16,
+                "pc": 25
+            }
+        },
+        {
+            "Velo Harmnix": {
+                "cc": 24,
+                "pc": 25
+            }
+        },
+        {
+            "Nylon Gt.2": {
+                "cc": 32,
+                "pc": 25
+            }
+        },
+        {
+            "Lequint Gt.": {
+                "cc": 40,
+                "pc": 25
+            }
+        },
+        {
+            "Steel-str.Gt": {
+                "cc": 0,
+                "pc": 26
+            }
+        },
+        {
+            "12-str.Gt": {
+                "cc": 8,
+                "pc": 26
+            }
+        },
+        {
+            "Nylon+Steel": {
+                "cc": 9,
+                "pc": 26
+            }
+        },
+        {
+            "Atk Steel Gt": {
+                "cc": 10,
+                "pc": 26
+            }
+        },
+        {
+            "Mandolin": {
+                "cc": 16,
+                "pc": 26
+            }
+        },
+        {
+            "Mandolin 2": {
+                "cc": 17,
+                "pc": 26
+            }
+        },
+        {
+            "MandolinTrem": {
+                "cc": 18,
+                "pc": 26
+            }
+        },
+        {
+            "Steel Gt.2": {
+                "cc": 32,
+                "pc": 26
+            }
+        },
+        {
+            "Steel + Body": {
+                "cc": 33,
+                "pc": 26
+            }
+        },
+        {
+            "Jazz Gt.": {
+                "cc": 0,
+                "pc": 27
+            }
+        },
+        {
+            "Mellow Gt.": {
+                "cc": 1,
+                "pc": 27
+            }
+        },
+        {
+            "Pedal Steel": {
+                "cc": 8,
+                "pc": 27
+            }
+        },
+        {
+            "Clean Gt.": {
+                "cc": 0,
+                "pc": 28
+            }
+        },
+        {
+            "Clean Half": {
+                "cc": 1,
+                "pc": 28
+            }
+        },
+        {
+            "Open Hard 1": {
+                "cc": 2,
+                "pc": 28
+            }
+        },
+        {
+            "Open Hard 2": {
+                "cc": 3,
+                "pc": 28
+            }
+        },
+        {
+            "JC Clean Gt.": {
+                "cc": 4,
+                "pc": 28
+            }
+        },
+        {
+            "Atk CleanGt.": {
+                "cc": 5,
+                "pc": 28
+            }
+        },
+        {
+            "Chorus Gt.": {
+                "cc": 8,
+                "pc": 28
+            }
+        },
+        {
+            "JC Chorus Gt": {
+                "cc": 9,
+                "pc": 28
+            }
+        },
+        {
+            "TC FrontPick": {
+                "cc": 16,
+                "pc": 28
+            }
+        },
+        {
+            "TC Rear Pick": {
+                "cc": 17,
+                "pc": 28
+            }
+        },
+        {
+            "TC Clean ff": {
+                "cc": 18,
+                "pc": 28
+            }
+        },
+        {
+            "TC Clean 2:": {
+                "cc": 19,
+                "pc": 28
+            }
+        },
+        {
+            "LP Rear Pick": {
+                "cc": 20,
+                "pc": 28
+            }
+        },
+        {
+            "LP Rear 2": {
+                "cc": 21,
+                "pc": 28
+            }
+        },
+        {
+            "LP RearAtack": {
+                "cc": 22,
+                "pc": 28
+            }
+        },
+        {
+            "Mid Tone GTR": {
+                "cc": 23,
+                "pc": 28
+            }
+        },
+        {
+            "Chung Ruan": {
+                "cc": 24,
+                "pc": 28
+            }
+        },
+        {
+            "Chung Ruan 2": {
+                "cc": 25,
+                "pc": 28
+            }
+        },
+        {
+            "Muted Gt.": {
+                "cc": 0,
+                "pc": 29
+            }
+        },
+        {
+            "Muted Dis.Gt": {
+                "cc": 1,
+                "pc": 29
+            }
+        },
+        {
+            "TC Muted Gt.": {
+                "cc": 2,
+                "pc": 29
+            }
+        },
+        {
+            "Funk Pop": {
+                "cc": 8,
+                "pc": 29
+            }
+        },
+        {
+            "Funk Gt.2": {
+                "cc": 16,
+                "pc": 29
+            }
+        },
+        {
+            "Jazz Man": {
+                "cc": 24,
+                "pc": 29
+            }
+        },
+        {
+            "Overdrive Gt": {
+                "cc": 0,
+                "pc": 30
+            }
+        },
+        {
+            "Overdrive 2": {
+                "cc": 1,
+                "pc": 30
+            }
+        },
+        {
+            "Overdrive 3": {
+                "cc": 2,
+                "pc": 30
+            }
+        },
+        {
+            "More Drive": {
+                "cc": 3,
+                "pc": 30
+            }
+        },
+        {
+            "Guitar Pinch": {
+                "cc": 4,
+                "pc": 30
+            }
+        },
+        {
+            "Attack Drive": {
+                "cc": 5,
+                "pc": 30
+            }
+        },
+        {
+            "LP OverDrvGt": {
+                "cc": 8,
+                "pc": 30
+            }
+        },
+        {
+            "LP OverDrv:": {
+                "cc": 9,
+                "pc": 30
+            }
+        },
+        {
+            "LP Half Drv": {
+                "cc": 10,
+                "pc": 30
+            }
+        },
+        {
+            "LP Half Drv2": {
+                "cc": 11,
+                "pc": 30
+            }
+        },
+        {
+            "LP Chorus": {
+                "cc": 12,
+                "pc": 30
+            }
+        },
+        {
+            "DistortionGt": {
+                "cc": 0,
+                "pc": 31
+            }
+        },
+        {
+            "Dist. Gt2 :": {
+                "cc": 1,
+                "pc": 31
+            }
+        },
+        {
+            "Dazed Guitar": {
+                "cc": 2,
+                "pc": 31
+            }
+        },
+        {
+            "Distortion:": {
+                "cc": 3,
+                "pc": 31
+            }
+        },
+        {
+            "Dist.Fast :": {
+                "cc": 4,
+                "pc": 31
+            }
+        },
+        {
+            "Attack Dist": {
+                "cc": 5,
+                "pc": 31
+            }
+        },
+        {
+            "Feedback Gt.": {
+                "cc": 8,
+                "pc": 31
+            }
+        },
+        {
+            "Feedback Gt2": {
+                "cc": 9,
+                "pc": 31
+            }
+        },
+        {
+            "Power Guitar": {
+                "cc": 16,
+                "pc": 31
+            }
+        },
+        {
+            "Power Gt.2": {
+                "cc": 17,
+                "pc": 31
+            }
+        },
+        {
+            "5th Dist.": {
+                "cc": 18,
+                "pc": 31
+            }
+        },
+        {
+            "Rock Rhythm": {
+                "cc": 24,
+                "pc": 31
+            }
+        },
+        {
+            "Rock Rhythm2": {
+                "cc": 25,
+                "pc": 31
+            }
+        },
+        {
+            "Dist Rtm GTR": {
+                "cc": 26,
+                "pc": 31
+            }
+        },
+        {
+            "Gt.Harmonics": {
+                "cc": 0,
+                "pc": 32
+            }
+        },
+        {
+            "Gt. Feedback": {
+                "cc": 8,
+                "pc": 32
+            }
+        },
+        {
+            "Gt.Feedback2": {
+                "cc": 9,
+                "pc": 32
+            }
+        },
+        {
+            "Ac.Gt.Harmnx": {
+                "cc": 16,
+                "pc": 32
+            }
+        },
+        {
+            "E.Bass Harm.": {
+                "cc": 24,
+                "pc": 32
+            }
+        }
+    ],
+    "chrom.percussion": [
+        {
+            "Celesta1": {
+                "cc": 0,
+                "pc": 9
+            }
+        },
+        {
+            "Pop Celesta 2 ": {
+                "cc": 1,
+                "pc": 9
+            }
+        },
+        {
+            "Glockenspiel 1 ": {
+                "cc": 0,
+                "pc": 10
+            }
+        },
+        {
+            "Music Box1": {
+                "cc": 0,
+                "pc": 11
+            }
+        },
+        {
+            "Music Box 2 ": {
+                "cc": 1,
+                "pc": 11
+            }
+        },
+        {
+            "St.Music Box 2": {
+                "cc": 8,
+                "pc": 11
+            }
+        },
+        {
+            " Vibraphone  1 ": {
+                "cc": 0,
+                "pc": 12
+            }
+        },
+        {
+            "Pop Vibe.2 ": {
+                "cc": 1,
+                "pc": 12
+            }
+        },
+        {
+            "Vibraphone w 1": {
+                "cc": 8,
+                "pc": 12
+            }
+        },
+        {
+            "Vibraphones 2 ": {
+                "cc": 9,
+                "pc": 12
+            }
+        },
+        {
+            "Marimba1 ": {
+                "cc": 0,
+                "pc": 13
+            }
+        },
+        {
+            "Marimba w1 ": {
+                "cc": 8,
+                "pc": 13
+            }
+        },
+        {
+            "Barafon1 ": {
+                "cc": 16,
+                "pc": 13
+            }
+        },
+        {
+            "Barafon 21 ": {
+                "cc": 17,
+                "pc": 13
+            }
+        },
+        {
+            "Log drum1 ": {
+                "cc": 24,
+                "pc": 13
+            }
+        },
+        {
+            "Xylophone1 ": {
+                "cc": 0,
+                "pc": 14
+            }
+        },
+        {
+            "Xylophone w 1": {
+                "cc": 8,
+                "pc": 14
+            }
+        },
+        {
+            "Tubular-bell 1": {
+                "cc": 0,
+                "pc": 15
+            }
+        },
+        {
+            "Church Bell 1": {
+                "cc": 8,
+                "pc": 15
+            }
+        },
+        {
+            "Carillon1": {
+                "cc": 9,
+                "pc": 15
+            }
+        },
+        {
+            "Church Bell2 1": {
+                "cc": 10,
+                "pc": 15
+            }
+        },
+        {
+            "Tubularbellw 1": {
+                "cc": 16,
+                "pc": 15
+            }
+        },
+        {
+            "Santur1": {
+                "cc": 0,
+                "pc": 16
+            }
+        },
+        {
+            "Santur 22 ": {
+                "cc": 1,
+                "pc": 16
+            }
+        },
+        {
+            "Santur 32": {
+                "cc": 2,
+                "pc": 16
+            }
+        },
+        {
+            "Cimbalom2 ": {
+                "cc": 8,
+                "pc": 16
+            }
+        },
+        {
+            "Zither 11 ": {
+                "cc": 16,
+                "pc": 16
+            }
+        },
+        {
+            "Zither 22 ": {
+                "cc": 17,
+                "pc": 16
+            }
+        },
+        {
+            "Dulcimer2 ": {
+                "cc": 24,
+                "pc": 16
+            }
+        }
+    ],
+    "brass": [
+        {
+            "Trumpet": {
+                "cc": 0,
+                "pc": 57
+            }
+        },
+        {
+            "Trumpet 2": {
+                "cc": 1,
+                "pc": 57
+            }
+        },
+        {
+            "Trumpet:": {
+                "cc": 2,
+                "pc": 57
+            }
+        },
+        {
+            "Dark Trumpet": {
+                "cc": 3,
+                "pc": 57
+            }
+        },
+        {
+            "Trumpet & Nz": {
+                "cc": 4,
+                "pc": 57
+            }
+        },
+        {
+            "Flugel Horn": {
+                "cc": 8,
+                "pc": 57
+            }
+        },
+        {
+            "4th Trumpets": {
+                "cc": 16,
+                "pc": 57
+            }
+        },
+        {
+            "Bright Tp.": {
+                "cc": 24,
+                "pc": 57
+            }
+        },
+        {
+            "Warm Tp.": {
+                "cc": 25,
+                "pc": 57
+            }
+        },
+        {
+            "Warm Tp.2": {
+                "cc": 26,
+                "pc": 57
+            }
+        },
+        {
+            "Twin Tp.": {
+                "cc": 27,
+                "pc": 57
+            }
+        },
+        {
+            "Syn. Trumpet": {
+                "cc": 32,
+                "pc": 57
+            }
+        },
+        {
+            "Trombone": {
+                "cc": 0,
+                "pc": 58
+            }
+        },
+        {
+            "Trombone 2": {
+                "cc": 1,
+                "pc": 58
+            }
+        },
+        {
+            "Twin bones": {
+                "cc": 2,
+                "pc": 58
+            }
+        },
+        {
+            "Bones & Tuba": {
+                "cc": 3,
+                "pc": 58
+            }
+        },
+        {
+            "Bright Tb": {
+                "cc": 4,
+                "pc": 58
+            }
+        },
+        {
+            "Bs. Trombone": {
+                "cc": 8,
+                "pc": 58
+            }
+        },
+        {
+            "Euphonium": {
+                "cc": 16,
+                "pc": 58
+            }
+        },
+        {
+            "Tuba": {
+                "cc": 0,
+                "pc": 59
+            }
+        },
+        {
+            "Tuba 2": {
+                "cc": 1,
+                "pc": 59
+            }
+        },
+        {
+            "Tuba + Horn": {
+                "cc": 8,
+                "pc": 59
+            }
+        },
+        {
+            "MutedTrumpet": {
+                "cc": 0,
+                "pc": 60
+            }
+        },
+        {
+            "Cup Mute Tp": {
+                "cc": 1,
+                "pc": 60
+            }
+        },
+        {
+            "MuteTrumpet2": {
+                "cc": 2,
+                "pc": 60
+            }
+        },
+        {
+            "MuteTrumpet3": {
+                "cc": 3,
+                "pc": 60
+            }
+        },
+        {
+            "Muted Horns": {
+                "cc": 8,
+                "pc": 60
+            }
+        },
+        {
+            "French Horns": {
+                "cc": 0,
+                "pc": 61
+            }
+        },
+        {
+            "Fr.Horn 2": {
+                "cc": 1,
+                "pc": 61
+            }
+        },
+        {
+            "Horn + Orche": {
+                "cc": 2,
+                "pc": 61
+            }
+        },
+        {
+            "Wide FreHrns": {
+                "cc": 3,
+                "pc": 61
+            }
+        },
+        {
+            "F.Hrn Slow:": {
+                "cc": 8,
+                "pc": 61
+            }
+        },
+        {
+            "Dual Horns": {
+                "cc": 9,
+                "pc": 61
+            }
+        },
+        {
+            "Synth Horn": {
+                "cc": 16,
+                "pc": 61
+            }
+        },
+        {
+            "F.Horn Rip": {
+                "cc": 24,
+                "pc": 61
+            }
+        },
+        {
+            "Brass 1": {
+                "cc": 0,
+                "pc": 62
+            }
+        },
+        {
+            "Brass ff": {
+                "cc": 1,
+                "pc": 62
+            }
+        },
+        {
+            "Bones Sect.": {
+                "cc": 2,
+                "pc": 62
+            }
+        },
+        {
+            "St. Brass ff": {
+                "cc": 3,
+                "pc": 62
+            }
+        },
+        {
+            "Quad Brass1": {
+                "cc": 4,
+                "pc": 62
+            }
+        },
+        {
+            "Quad Brass2": {
+                "cc": 5,
+                "pc": 62
+            }
+        },
+        {
+            "Brass 2": {
+                "cc": 8,
+                "pc": 62
+            }
+        },
+        {
+            "Brass 3": {
+                "cc": 9,
+                "pc": 62
+            }
+        },
+        {
+            "Brass sfz": {
+                "cc": 10,
+                "pc": 62
+            }
+        },
+        {
+            "Brass sfz 2": {
+                "cc": 12,
+                "pc": 62
+            }
+        },
+        {
+            "FatPop Brass": {
+                "cc": 14,
+                "pc": 62
+            }
+        },
+        {
+            "Brass Fall": {
+                "cc": 16,
+                "pc": 62
+            }
+        },
+        {
+            "Trumpet Fall": {
+                "cc": 17,
+                "pc": 62
+            }
+        },
+        {
+            "Octave Brass": {
+                "cc": 24,
+                "pc": 62
+            }
+        },
+        {
+            "Brass + Reed": {
+                "cc": 25,
+                "pc": 62
+            }
+        },
+        {
+            "Fat + Reed": {
+                "cc": 26,
+                "pc": 62
+            }
+        },
+        {
+            "Orch Brass": {
+                "cc": 32,
+                "pc": 62
+            }
+        },
+        {
+            "Orch Brass 2": {
+                "cc": 33,
+                "pc": 62
+            }
+        },
+        {
+            "St.FatPopBrs": {
+                "cc": 35,
+                "pc": 62
+            }
+        },
+        {
+            "St.Orch Brs": {
+                "cc": 36,
+                "pc": 62
+            }
+        },
+        {
+            "St.Orch Brs2": {
+                "cc": 37,
+                "pc": 62
+            }
+        },
+        {
+            "St.Orch Brs3": {
+                "cc": 38,
+                "pc": 62
+            }
+        },
+        {
+            "Synth Brass1": {
+                "cc": 0,
+                "pc": 63
+            }
+        },
+        {
+            "JUNO Brass": {
+                "cc": 1,
+                "pc": 63
+            }
+        },
+        {
+            "Stack Brass": {
+                "cc": 2,
+                "pc": 63
+            }
+        },
+        {
+            "SH-5 Brass": {
+                "cc": 3,
+                "pc": 63
+            }
+        },
+        {
+            "MKS Brass": {
+                "cc": 4,
+                "pc": 63
+            }
+        },
+        {
+            "Jump Brass": {
+                "cc": 5,
+                "pc": 63
+            }
+        },
+        {
+            "Pro Brass": {
+                "cc": 8,
+                "pc": 63
+            }
+        },
+        {
+            "P5 Brass": {
+                "cc": 9,
+                "pc": 63
+            }
+        },
+        {
+            "OrchSynBrass": {
+                "cc": 10,
+                "pc": 63
+            }
+        },
+        {
+            "Oct SynBrass": {
+                "cc": 16,
+                "pc": 63
+            }
+        },
+        {
+            "Hybrid Brass": {
+                "cc": 17,
+                "pc": 63
+            }
+        },
+        {
+            "OctSynBrass2": {
+                "cc": 18,
+                "pc": 63
+            }
+        },
+        {
+            "BPF Brass": {
+                "cc": 19,
+                "pc": 63
+            }
+        },
+        {
+            "Synth Brass2": {
+                "cc": 0,
+                "pc": 64
+            }
+        },
+        {
+            "Soft Brass": {
+                "cc": 1,
+                "pc": 64
+            }
+        },
+        {
+            "Warm Brass": {
+                "cc": 2,
+                "pc": 64
+            }
+        },
+        {
+            "Synth Brass3": {
+                "cc": 3,
+                "pc": 64
+            }
+        },
+        {
+            "Sync Brass": {
+                "cc": 4,
+                "pc": 64
+            }
+        },
+        {
+            "Fat SynBrass": {
+                "cc": 5,
+                "pc": 64
+            }
+        },
+        {
+            "DeepSynBrass": {
+                "cc": 6,
+                "pc": 64
+            }
+        },
+        {
+            "SynBrass sfz": {
+                "cc": 8,
+                "pc": 64
+            }
+        },
+        {
+            "OB Brass": {
+                "cc": 9,
+                "pc": 64
+            }
+        },
+        {
+            "Reso Brass": {
+                "cc": 10,
+                "pc": 64
+            }
+        },
+        {
+            "DistSqrBrass": {
+                "cc": 11,
+                "pc": 64
+            }
+        },
+        {
+            "JP8000SawBrs": {
+                "cc": 12,
+                "pc": 64
+            }
+        },
+        {
+            "Velo Brass 1": {
+                "cc": 16,
+                "pc": 64
+            }
+        },
+        {
+            "Transbrass": {
+                "cc": 17,
+                "pc": 64
+            }
+        }
+    ],
+    "sfx": [
+        {
+            "Gt.FretNoise": {
+                "cc": 0,
+                "pc": 121
+            }
+        },
+        {
+            "Gt.Cut Noise": {
+                "cc": 1,
+                "pc": 121
+            }
+        },
+        {
+            "String Slap": {
+                "cc": 2,
+                "pc": 121
+            }
+        },
+        {
+            "Gt.CutNoise2": {
+                "cc": 3,
+                "pc": 121
+            }
+        },
+        {
+            "Dist.CutNoiz": {
+                "cc": 4,
+                "pc": 121
+            }
+        },
+        {
+            "Bass Slide": {
+                "cc": 5,
+                "pc": 121
+            }
+        },
+        {
+            "Pick Scrape": {
+                "cc": 6,
+                "pc": 121
+            }
+        },
+        {
+            "Gt. FX Menu": {
+                "cc": 8,
+                "pc": 121
+            }
+        },
+        {
+            "Bartok Pizz.": {
+                "cc": 9,
+                "pc": 121
+            }
+        },
+        {
+            "Guitar Slap": {
+                "cc": 10,
+                "pc": 121
+            }
+        },
+        {
+            "Chord Stroke": {
+                "cc": 11,
+                "pc": 121
+            }
+        },
+        {
+            "Biwa Stroke": {
+                "cc": 12,
+                "pc": 121
+            }
+        },
+        {
+            "Biwa Tremolo": {
+                "cc": 13,
+                "pc": 121
+            }
+        },
+        {
+            "A.Bs.Nz Menu": {
+                "cc": 16,
+                "pc": 121
+            }
+        },
+        {
+            "D.Gt.Nz Menu": {
+                "cc": 17,
+                "pc": 121
+            }
+        },
+        {
+            "E.Gt.NzMenu1": {
+                "cc": 18,
+                "pc": 121
+            }
+        },
+        {
+            "E.Gt.NzMenu2": {
+                "cc": 19,
+                "pc": 121
+            }
+        },
+        {
+            "G.StrokeMenu": {
+                "cc": 20,
+                "pc": 121
+            }
+        },
+        {
+            "Gt.SlideMenu": {
+                "cc": 21,
+                "pc": 121
+            }
+        },
+        {
+            "A.Bs.Mute Nz": {
+                "cc": 22,
+                "pc": 121
+            }
+        },
+        {
+            "A.Bs.TouchNz": {
+                "cc": 23,
+                "pc": 121
+            }
+        },
+        {
+            "A.Bs.AtackNz": {
+                "cc": 24,
+                "pc": 121
+            }
+        },
+        {
+            "TC Up Nz": {
+                "cc": 25,
+                "pc": 121
+            }
+        },
+        {
+            "TC DownMt.Nz": {
+                "cc": 26,
+                "pc": 121
+            }
+        },
+        {
+            "TC UpMt.Nz": {
+                "cc": 27,
+                "pc": 121
+            }
+        },
+        {
+            "TC Down Nz": {
+                "cc": 28,
+                "pc": 121
+            }
+        },
+        {
+            "DstGT.Up Nz": {
+                "cc": 29,
+                "pc": 121
+            }
+        },
+        {
+            "DstGT.DwnNz1": {
+                "cc": 30,
+                "pc": 121
+            }
+        },
+        {
+            "DstGT.DwnNz2": {
+                "cc": 31,
+                "pc": 121
+            }
+        },
+        {
+            "DstGT.MuteNz": {
+                "cc": 32,
+                "pc": 121
+            }
+        },
+        {
+            "Gt.StrokeNz5": {
+                "cc": 34,
+                "pc": 121
+            }
+        },
+        {
+            "StlGt.SldNz1": {
+                "cc": 35,
+                "pc": 121
+            }
+        },
+        {
+            "StlGt.SldNz2": {
+                "cc": 36,
+                "pc": 121
+            }
+        },
+        {
+            "StlGt.SldNz3": {
+                "cc": 37,
+                "pc": 121
+            }
+        },
+        {
+            "StlGt.SldNz4": {
+                "cc": 38,
+                "pc": 121
+            }
+        },
+        {
+            "Gt.StrokeNz1": {
+                "cc": 39,
+                "pc": 121
+            }
+        },
+        {
+            "Gt.StrokeNz2": {
+                "cc": 40,
+                "pc": 121
+            }
+        },
+        {
+            "Gt.StrokeNz3": {
+                "cc": 41,
+                "pc": 121
+            }
+        },
+        {
+            "Gt.StrokeNz4": {
+                "cc": 42,
+                "pc": 121
+            }
+        },
+        {
+            "Breath Noise": {
+                "cc": 0,
+                "pc": 122
+            }
+        },
+        {
+            "Fl.Key Click": {
+                "cc": 1,
+                "pc": 122
+            }
+        },
+        {
+            "Brth Nz Menu": {
+                "cc": 2,
+                "pc": 122
+            }
+        },
+        {
+            "Fl.Breath 1": {
+                "cc": 3,
+                "pc": 122
+            }
+        },
+        {
+            "Fl.Breath 2": {
+                "cc": 4,
+                "pc": 122
+            }
+        },
+        {
+            "Fl.Breath 3": {
+                "cc": 5,
+                "pc": 122
+            }
+        },
+        {
+            "Vox Breath 1": {
+                "cc": 6,
+                "pc": 122
+            }
+        },
+        {
+            "Vox Breath 2": {
+                "cc": 7,
+                "pc": 122
+            }
+        },
+        {
+            "Trombone Nz": {
+                "cc": 8,
+                "pc": 122
+            }
+        },
+        {
+            "Trumpet Nz": {
+                "cc": 9,
+                "pc": 122
+            }
+        },
+        {
+            "Seashore": {
+                "cc": 0,
+                "pc": 123
+            }
+        },
+        {
+            "Rain": {
+                "cc": 1,
+                "pc": 123
+            }
+        },
+        {
+            "Thunder": {
+                "cc": 2,
+                "pc": 123
+            }
+        },
+        {
+            "Wind": {
+                "cc": 3,
+                "pc": 123
+            }
+        },
+        {
+            "Stream": {
+                "cc": 4,
+                "pc": 123
+            }
+        },
+        {
+            "Bubble": {
+                "cc": 5,
+                "pc": 123
+            }
+        },
+        {
+            "Wind 2": {
+                "cc": 6,
+                "pc": 123
+            }
+        },
+        {
+            "Cricket": {
+                "cc": 7,
+                "pc": 123
+            }
+        },
+        {
+            "Pink Noise": {
+                "cc": 16,
+                "pc": 123
+            }
+        },
+        {
+            "White Noise": {
+                "cc": 17,
+                "pc": 123
+            }
+        },
+        {
+            "Bird": {
+                "cc": 0,
+                "pc": 124
+            }
+        },
+        {
+            "Dog": {
+                "cc": 1,
+                "pc": 124
+            }
+        },
+        {
+            "Horse-Gallop": {
+                "cc": 2,
+                "pc": 124
+            }
+        },
+        {
+            "Bird 2": {
+                "cc": 3,
+                "pc": 124
+            }
+        },
+        {
+            "Kitty": {
+                "cc": 4,
+                "pc": 124
+            }
+        },
+        {
+            "Growl": {
+                "cc": 5,
+                "pc": 124
+            }
+        },
+        {
+            "Growl 2": {
+                "cc": 6,
+                "pc": 124
+            }
+        },
+        {
+            "Fancy Animal": {
+                "cc": 7,
+                "pc": 124
+            }
+        },
+        {
+            "Seal": {
+                "cc": 8,
+                "pc": 124
+            }
+        },
+        {
+            "Telephone 1": {
+                "cc": 0,
+                "pc": 125
+            }
+        },
+        {
+            "Telephone 2": {
+                "cc": 1,
+                "pc": 125
+            }
+        },
+        {
+            "DoorCreaking": {
+                "cc": 2,
+                "pc": 125
+            }
+        },
+        {
+            "Door": {
+                "cc": 3,
+                "pc": 125
+            }
+        },
+        {
+            "Scratch": {
+                "cc": 4,
+                "pc": 125
+            }
+        },
+        {
+            "Wind Chimes": {
+                "cc": 5,
+                "pc": 125
+            }
+        },
+        {
+            "Scratch 2": {
+                "cc": 7,
+                "pc": 125
+            }
+        },
+        {
+            "ScratchKey": {
+                "cc": 8,
+                "pc": 125
+            }
+        },
+        {
+            "TapeRewind": {
+                "cc": 9,
+                "pc": 125
+            }
+        },
+        {
+            "Phono Noise": {
+                "cc": 10,
+                "pc": 125
+            }
+        },
+        {
+            "MC-500 Beep": {
+                "cc": 11,
+                "pc": 125
+            }
+        },
+        {
+            "Scratch 3": {
+                "cc": 12,
+                "pc": 125
+            }
+        },
+        {
+            "Scratch 4": {
+                "cc": 13,
+                "pc": 125
+            }
+        },
+        {
+            "Scratch 5": {
+                "cc": 14,
+                "pc": 125
+            }
+        },
+        {
+            "Scratch 6": {
+                "cc": 15,
+                "pc": 125
+            }
+        },
+        {
+            "Scratch 7": {
+                "cc": 16,
+                "pc": 125
+            }
+        },
+        {
+            "Helicopter": {
+                "cc": 0,
+                "pc": 126
+            }
+        },
+        {
+            "Car-Engine": {
+                "cc": 1,
+                "pc": 126
+            }
+        },
+        {
+            "Car-Stop": {
+                "cc": 2,
+                "pc": 126
+            }
+        },
+        {
+            "Car-Pass": {
+                "cc": 3,
+                "pc": 126
+            }
+        },
+        {
+            "Car-Crash": {
+                "cc": 4,
+                "pc": 126
+            }
+        },
+        {
+            "Siren": {
+                "cc": 5,
+                "pc": 126
+            }
+        },
+        {
+            "Train": {
+                "cc": 6,
+                "pc": 126
+            }
+        },
+        {
+            "Jetplane": {
+                "cc": 7,
+                "pc": 126
+            }
+        },
+        {
+            "Starship": {
+                "cc": 8,
+                "pc": 126
+            }
+        },
+        {
+            "Burst Noise": {
+                "cc": 9,
+                "pc": 126
+            }
+        },
+        {
+            "Calculating": {
+                "cc": 10,
+                "pc": 126
+            }
+        },
+        {
+            "Perc. Bang": {
+                "cc": 11,
+                "pc": 126
+            }
+        },
+        {
+            "Burner": {
+                "cc": 12,
+                "pc": 126
+            }
+        },
+        {
+            "Glass & Glam": {
+                "cc": 13,
+                "pc": 126
+            }
+        },
+        {
+            "Ice Ring": {
+                "cc": 14,
+                "pc": 126
+            }
+        },
+        {
+            "Over Blow": {
+                "cc": 15,
+                "pc": 126
+            }
+        },
+        {
+            "Crack Bottle": {
+                "cc": 16,
+                "pc": 126
+            }
+        },
+        {
+            "Pour Bottle": {
+                "cc": 17,
+                "pc": 126
+            }
+        },
+        {
+            "Soda": {
+                "cc": 18,
+                "pc": 126
+            }
+        },
+        {
+            "Open CD Tray": {
+                "cc": 19,
+                "pc": 126
+            }
+        },
+        {
+            "Audio Switch": {
+                "cc": 20,
+                "pc": 126
+            }
+        },
+        {
+            "Key Typing": {
+                "cc": 21,
+                "pc": 126
+            }
+        },
+        {
+            "SL 1": {
+                "cc": 22,
+                "pc": 126
+            }
+        },
+        {
+            "SL 2": {
+                "cc": 23,
+                "pc": 126
+            }
+        },
+        {
+            "Car Engine 2": {
+                "cc": 24,
+                "pc": 126
+            }
+        },
+        {
+            "Car Horn": {
+                "cc": 25,
+                "pc": 126
+            }
+        },
+        {
+            "Boeeeen": {
+                "cc": 26,
+                "pc": 126
+            }
+        },
+        {
+            "R.Crossing": {
+                "cc": 27,
+                "pc": 126
+            }
+        },
+        {
+            "Compresser": {
+                "cc": 28,
+                "pc": 126
+            }
+        },
+        {
+            "Sword Boom!": {
+                "cc": 29,
+                "pc": 126
+            }
+        },
+        {
+            "Sword Cross": {
+                "cc": 30,
+                "pc": 126
+            }
+        },
+        {
+            "Stab! 1": {
+                "cc": 31,
+                "pc": 126
+            }
+        },
+        {
+            "Stab! 2": {
+                "cc": 32,
+                "pc": 126
+            }
+        },
+        {
+            "Applause": {
+                "cc": 0,
+                "pc": 127
+            }
+        },
+        {
+            "Laughing": {
+                "cc": 1,
+                "pc": 127
+            }
+        },
+        {
+            "Screaming": {
+                "cc": 2,
+                "pc": 127
+            }
+        },
+        {
+            "Punch": {
+                "cc": 3,
+                "pc": 127
+            }
+        },
+        {
+            "Heart Beat": {
+                "cc": 4,
+                "pc": 127
+            }
+        },
+        {
+            "Footsteps": {
+                "cc": 5,
+                "pc": 127
+            }
+        },
+        {
+            "Applause 2": {
+                "cc": 6,
+                "pc": 127
+            }
+        },
+        {
+            "Small Club": {
+                "cc": 7,
+                "pc": 127
+            }
+        },
+        {
+            "ApplauseWave": {
+                "cc": 8,
+                "pc": 127
+            }
+        },
+        {
+            "BabyLaughing": {
+                "cc": 9,
+                "pc": 127
+            }
+        },
+        {
+            "Voice One": {
+                "cc": 16,
+                "pc": 127
+            }
+        },
+        {
+            "Voice Two": {
+                "cc": 17,
+                "pc": 127
+            }
+        },
+        {
+            "Voice Three": {
+                "cc": 18,
+                "pc": 127
+            }
+        },
+        {
+            "Voice Tah": {
+                "cc": 19,
+                "pc": 127
+            }
+        },
+        {
+            "Voice Whey": {
+                "cc": 20,
+                "pc": 127
+            }
+        },
+        {
+            "Voice Kikit": {
+                "cc": 22,
+                "pc": 127
+            }
+        },
+        {
+            "Voice ComeOn": {
+                "cc": 23,
+                "pc": 127
+            }
+        },
+        {
+            "Voice Aou": {
+                "cc": 24,
+                "pc": 127
+            }
+        },
+        {
+            "Voice Oou": {
+                "cc": 25,
+                "pc": 127
+            }
+        },
+        {
+            "Voice Hie": {
+                "cc": 26,
+                "pc": 127
+            }
+        },
+        {
+            "Gun Shot": {
+                "cc": 0,
+                "pc": 128
+            }
+        },
+        {
+            "Machine Gun": {
+                "cc": 1,
+                "pc": 128
+            }
+        },
+        {
+            "Lasergun": {
+                "cc": 2,
+                "pc": 128
+            }
+        },
+        {
+            "Explosion": {
+                "cc": 3,
+                "pc": 128
+            }
+        },
+        {
+            "Eruption": {
+                "cc": 4,
+                "pc": 128
+            }
+        },
+        {
+            "Big Shot": {
+                "cc": 5,
+                "pc": 128
+            }
+        },
+        {
+            "Explosion 2": {
+                "cc": 6,
+                "pc": 128
+            }
+        }
+    ],
+    "drums": [
+        {
+            "STANDARD 1": {
+                "cc": 1,
+                "pc": 0
+            }
+        },
+        {
+            "STANDARD 2": {
+                "cc": 2,
+                "pc": 0
+            }
+        },
+        {
+            "STANDARD L/R": {
+                "cc": 3,
+                "pc": 0
+            }
+        },
+        {
+            "ROOM": {
+                "cc": 9,
+                "pc": 0
+            }
+        },
+        {
+            "HIP HOP": {
+                "cc": 10,
+                "pc": 0
+            }
+        },
+        {
+            "JUNGLE": {
+                "cc": 11,
+                "pc": 0
+            }
+        },
+        {
+            "TECHNO": {
+                "cc": 12,
+                "pc": 0
+            }
+        },
+        {
+            "ROOM L/R": {
+                "cc": 13,
+                "pc": 0
+            }
+        },
+        {
+            "HOUSE": {
+                "cc": 14,
+                "pc": 0
+            }
+        },
+        {
+            "POWER": {
+                "cc": 17,
+                "pc": 0
+            }
+        },
+        {
+            "ELECTRONIC": {
+                "cc": 25,
+                "pc": 0
+            }
+        },
+        {
+            "TR-808": {
+                "cc": 26,
+                "pc": 0
+            }
+        },
+        {
+            "DANCE": {
+                "cc": 27,
+                "pc": 0
+            }
+        },
+        {
+            "CR-78": {
+                "cc": 28,
+                "pc": 0
+            }
+        },
+        {
+            "TR-606": {
+                "cc": 29,
+                "pc": 0
+            }
+        },
+        {
+            "TR-707": {
+                "cc": 30,
+                "pc": 0
+            }
+        },
+        {
+            "TR-909": {
+                "cc": 31,
+                "pc": 0
+            }
+        },
+        {
+            "JAZZ": {
+                "cc": 33,
+                "pc": 0
+            }
+        },
+        {
+            "JAZZ L/R": {
+                "cc": 34,
+                "pc": 0
+            }
+        },
+        {
+            "BRUSH": {
+                "cc": 41,
+                "pc": 0
+            }
+        },
+        {
+            "BRUSH 2": {
+                "cc": 42,
+                "pc": 0
+            }
+        },
+        {
+            "BRUSH 2 L/R": {
+                "cc": 43,
+                "pc": 0
+            }
+        },
+        {
+            "ORCHESTRA": {
+                "cc": 49,
+                "pc": 0
+            }
+        },
+        {
+            "ETHNIC": {
+                "cc": 50,
+                "pc": 0
+            }
+        },
+        {
+            "KICK & SNARE": {
+                "cc": 51,
+                "pc": 0
+            }
+        },
+        {
+            "KICK & SNARE 2": {
+                "cc": 52,
+                "pc": 0
+            }
+        },
+        {
+            "ASIA": {
+                "cc": 53,
+                "pc": 0
+            }
+        },
+        {
+            "CYMBAL&CLAPS": {
+                "cc": 54,
+                "pc": 0
+            }
+        },
+        {
+            "GAMELAN 1": {
+                "cc": 55,
+                "pc": 0
+            }
+        },
+        {
+            "GAMELAN 2": {
+                "cc": 56,
+                "pc": 0
+            }
+        },
+        {
+            "SFX": {
+                "cc": 57,
+                "pc": 0
+            }
+        },
+        {
+            "RHYTHM FX": {
+                "cc": 58,
+                "pc": 0
+            }
+        },
+        {
+            "RHYTHM FX 2": {
+                "cc": 59,
+                "pc": 0
+            }
+        },
+        {
+            "RHYTHM FX 3": {
+                "cc": 60,
+                "pc": 0
+            }
+        },
+        {
+            "SFX 2": {
+                "cc": 61,
+                "pc": 0
+            }
+        },
+        {
+            "VOICE": {
+                "cc": 62,
+                "pc": 0
+            }
+        },
+        {
+            "CYM&CLAPS 2": {
+                "cc": 63,
+                "pc": 0
+            }
+        }
+    ],
+    "ethnic": [
+        {
+            "Sitar": {
+                "cc": 0,
+                "pc": 105
+            }
+        },
+        {
+            "Sitar 2": {
+                "cc": 1,
+                "pc": 105
+            }
+        },
+        {
+            "Detune Sitar": {
+                "cc": 2,
+                "pc": 105
+            }
+        },
+        {
+            "Sitar 3": {
+                "cc": 3,
+                "pc": 105
+            }
+        },
+        {
+            "Sitar/Drone": {
+                "cc": 4,
+                "pc": 105
+            }
+        },
+        {
+            "Sitar 4": {
+                "cc": 5,
+                "pc": 105
+            }
+        },
+        {
+            "Tambra": {
+                "cc": 8,
+                "pc": 105
+            }
+        },
+        {
+            "Tamboura": {
+                "cc": 16,
+                "pc": 105
+            }
+        },
+        {
+            "Banjo": {
+                "cc": 0,
+                "pc": 106
+            }
+        },
+        {
+            " Muted Banjo": {
+                "cc": 1,
+                "pc": 106
+            }
+        },
+        {
+            "Rabab": {
+                "cc": 8,
+                "pc": 106
+            }
+        },
+        {
+            "San Xian": {
+                "cc": 9,
+                "pc": 106
+            }
+        },
+        {
+            "Gopichant": {
+                "cc": 16,
+                "pc": 106
+            }
+        },
+        {
+            "Oud": {
+                "cc": 24,
+                "pc": 106
+            }
+        },
+        {
+            "Oud+Strings": {
+                "cc": 28,
+                "pc": 106
+            }
+        },
+        {
+            "Pi Pa": {
+                "cc": 32,
+                "pc": 106
+            }
+        },
+        {
+            "Shamisen": {
+                "cc": 0,
+                "pc": 107
+            }
+        },
+        {
+            "Tsugaru": {
+                "cc": 1,
+                "pc": 107
+            }
+        },
+        {
+            "Syn Shamisen": {
+                "cc": 8,
+                "pc": 107
+            }
+        },
+        {
+            "Koto": {
+                "cc": 0,
+                "pc": 108
+            }
+        },
+        {
+            "Gu Zheng": {
+                "cc": 1,
+                "pc": 108
+            }
+        },
+        {
+            "Taisho Koto": {
+                "cc": 8,
+                "pc": 108
+            }
+        },
+        {
+            "Kanoon": {
+                "cc": 16,
+                "pc": 108
+            }
+        },
+        {
+            "Kanoon+Choir": {
+                "cc": 19,
+                "pc": 108
+            }
+        },
+        {
+            "Oct Harp": {
+                "cc": 24,
+                "pc": 108
+            }
+        },
+        {
+            "Kalimba": {
+                "cc": 0,
+                "pc": 109
+            }
+        },
+        {
+            "Sanza": {
+                "cc": 8,
+                "pc": 109
+            }
+        },
+        {
+            "Bodhran": {
+                "cc": 9,
+                "pc": 109
+            }
+        },
+        {
+            "Bodhran Mute": {
+                "cc": 10,
+                "pc": 109
+            }
+        },
+        {
+            "Bagpipe": {
+                "cc": 0,
+                "pc": 110
+            }
+        },
+        {
+            "Didgeridoo": {
+                "cc": 8,
+                "pc": 110
+            }
+        },
+        {
+            "Uillean Pipe": {
+                "cc": 9,
+                "pc": 110
+            }
+        },
+        {
+            "UillnPipe Nm": {
+                "cc": 10,
+                "pc": 110
+            }
+        },
+        {
+            "UillnPipe Or": {
+                "cc": 11,
+                "pc": 110
+            }
+        },
+        {
+            "Fiddle": {
+                "cc": 0,
+                "pc": 111
+            }
+        },
+        {
+            "Er Hu": {
+                "cc": 8,
+                "pc": 111
+            }
+        },
+        {
+            "Gao Hu": {
+                "cc": 9,
+                "pc": 111
+            }
+        },
+        {
+            "Shanai": {
+                "cc": 0,
+                "pc": 112
+            }
+        },
+        {
+            "Shanai 2": {
+                "cc": 1,
+                "pc": 112
+            }
+        },
+        {
+            "Pungi": {
+                "cc": 8,
+                "pc": 112
+            }
+        },
+        {
+            "Hichiriki": {
+                "cc": 16,
+                "pc": 112
+            }
+        },
+        {
+            "Mizmar": {
+                "cc": 24,
+                "pc": 112
+            }
+        },
+        {
+            "Suona 1": {
+                "cc": 32,
+                "pc": 112
+            }
+        },
+        {
+            "Suona 2": {
+                "cc": 33,
+                "pc": 112
+            }
+        },
+        {
+            "Tinkle Bell": {
+                "cc": 0,
+                "pc": 113
+            }
+        },
+        {
+            "Bonang": {
+                "cc": 8,
+                "pc": 113
+            }
+        },
+        {
+            "Gender": {
+                "cc": 9,
+                "pc": 113
+            }
+        },
+        {
+            "Gamelan Gong": {
+                "cc": 10,
+                "pc": 113
+            }
+        },
+        {
+            "St.Gamelan": {
+                "cc": 11,
+                "pc": 113
+            }
+        },
+        {
+            "Jang Gu": {
+                "cc": 12,
+                "pc": 113
+            }
+        },
+        {
+            "Jegogan": {
+                "cc": 13,
+                "pc": 113
+            }
+        },
+        {
+            "Jublag": {
+                "cc": 14,
+                "pc": 113
+            }
+        },
+        {
+            "Pemade": {
+                "cc": 15,
+                "pc": 113
+            }
+        },
+        {
+            "RAMA Cymbal": {
+                "cc": 16,
+                "pc": 113
+            }
+        },
+        {
+            "Kajar": {
+                "cc": 17,
+                "pc": 113
+            }
+        },
+        {
+            "Kelontuk": {
+                "cc": 18,
+                "pc": 113
+            }
+        },
+        {
+            "Kelontuk Mt": {
+                "cc": 19,
+                "pc": 113
+            }
+        },
+        {
+            "Kelontuk Sid": {
+                "cc": 20,
+                "pc": 113
+            }
+        },
+        {
+            "Kopyak Op": {
+                "cc": 21,
+                "pc": 113
+            }
+        },
+        {
+            "Kopyak Mt": {
+                "cc": 22,
+                "pc": 113
+            }
+        },
+        {
+            "Ceng Ceng": {
+                "cc": 23,
+                "pc": 113
+            }
+        },
+        {
+            "Reyoung": {
+                "cc": 24,
+                "pc": 113
+            }
+        },
+        {
+            "Kempur": {
+                "cc": 25,
+                "pc": 113
+            }
+        },
+        {
+            "Jngl Crash": {
+                "cc": 32,
+                "pc": 113
+            }
+        },
+        {
+            "Crash Menu": {
+                "cc": 40,
+                "pc": 113
+            }
+        },
+        {
+            "RideCym Menu": {
+                "cc": 41,
+                "pc": 113
+            }
+        },
+        {
+            "RideBellMenu": {
+                "cc": 42,
+                "pc": 113
+            }
+        },
+        {
+            "Agogo": {
+                "cc": 0,
+                "pc": 114
+            }
+        },
+        {
+            "Atarigane": {
+                "cc": 8,
+                "pc": 114
+            }
+        },
+        {
+            "Tambourine": {
+                "cc": 16,
+                "pc": 114
+            }
+        },
+        {
+            "Steel Drums": {
+                "cc": 0,
+                "pc": 115
+            }
+        },
+        {
+            "Island Mlt": {
+                "cc": 1,
+                "pc": 115
+            }
+        },
+        {
+            "Woodblock": {
+                "cc": 0,
+                "pc": 116
+            }
+        },
+        {
+            "Castanets": {
+                "cc": 8,
+                "pc": 116
+            }
+        },
+        {
+            "Angklung": {
+                "cc": 16,
+                "pc": 116
+            }
+        },
+        {
+            "Angkl Rhythm": {
+                "cc": 17,
+                "pc": 116
+            }
+        },
+        {
+            "Finger Snaps": {
+                "cc": 24,
+                "pc": 116
+            }
+        },
+        {
+            "909 HandClap": {
+                "cc": 32,
+                "pc": 116
+            }
+        },
+        {
+            "HandClapMenu": {
+                "cc": 40,
+                "pc": 116
+            }
+        },
+        {
+            "Taiko": {
+                "cc": 0,
+                "pc": 117
+            }
+        },
+        {
+            "Small Taiko": {
+                "cc": 1,
+                "pc": 117
+            }
+        },
+        {
+            "Concert BD": {
+                "cc": 8,
+                "pc": 117
+            }
+        },
+        {
+            "ConcertBD Mt": {
+                "cc": 9,
+                "pc": 117
+            }
+        },
+        {
+            "Jungle BD": {
+                "cc": 16,
+                "pc": 117
+            }
+        },
+        {
+            "Techno BD": {
+                "cc": 17,
+                "pc": 117
+            }
+        },
+        {
+            "Bounce": {
+                "cc": 18,
+                "pc": 117
+            }
+        },
+        {
+            "KendangWadon": {
+                "cc": 24,
+                "pc": 117
+            }
+        },
+        {
+            "Bebarongan": {
+                "cc": 25,
+                "pc": 117
+            }
+        },
+        {
+            "Pelegongan": {
+                "cc": 26,
+                "pc": 117
+            }
+        },
+        {
+            "Dholak 1": {
+                "cc": 27,
+                "pc": 117
+            }
+        },
+        {
+            "Dholak 2": {
+                "cc": 28,
+                "pc": 117
+            }
+        },
+        {
+            "Jngl BD Roll": {
+                "cc": 32,
+                "pc": 117
+            }
+        },
+        {
+            "Kick Menu 1": {
+                "cc": 40,
+                "pc": 117
+            }
+        },
+        {
+            "Kick Menu 2": {
+                "cc": 41,
+                "pc": 117
+            }
+        },
+        {
+            "Kick Menu 3": {
+                "cc": 42,
+                "pc": 117
+            }
+        },
+        {
+            "Kick Menu 4": {
+                "cc": 43,
+                "pc": 117
+            }
+        },
+        {
+            "Melo. Tom 1": {
+                "cc": 0,
+                "pc": 118
+            }
+        },
+        {
+            "Real Tom": {
+                "cc": 1,
+                "pc": 118
+            }
+        },
+        {
+            "Real Tom 2": {
+                "cc": 2,
+                "pc": 118
+            }
+        },
+        {
+            "Jazz Tom": {
+                "cc": 3,
+                "pc": 118
+            }
+        },
+        {
+            "Brush Tom": {
+                "cc": 4,
+                "pc": 118
+            }
+        },
+        {
+            "Melo. Tom 2": {
+                "cc": 8,
+                "pc": 118
+            }
+        },
+        {
+            "Rock Tom": {
+                "cc": 9,
+                "pc": 118
+            }
+        },
+        {
+            "Rash SD": {
+                "cc": 16,
+                "pc": 118
+            }
+        },
+        {
+            "House SD": {
+                "cc": 17,
+                "pc": 118
+            }
+        },
+        {
+            "Jungle SD": {
+                "cc": 18,
+                "pc": 118
+            }
+        },
+        {
+            "909 SD": {
+                "cc": 19,
+                "pc": 118
+            }
+        },
+        {
+            "Jngl SD Roll": {
+                "cc": 24,
+                "pc": 118
+            }
+        },
+        {
+            "SD Menu 1": {
+                "cc": 40,
+                "pc": 118
+            }
+        },
+        {
+            "SD Menu 2": {
+                "cc": 41,
+                "pc": 118
+            }
+        },
+        {
+            "SD Menu 3": {
+                "cc": 42,
+                "pc": 118
+            }
+        },
+        {
+            "SD Menu 4": {
+                "cc": 43,
+                "pc": 118
+            }
+        },
+        {
+            "SD Menu 5": {
+                "cc": 44,
+                "pc": 118
+            }
+        },
+        {
+            "Synth Drum": {
+                "cc": 0,
+                "pc": 119
+            }
+        },
+        {
+            "808 Tom": {
+                "cc": 8,
+                "pc": 119
+            }
+        },
+        {
+            "Elec Perc": {
+                "cc": 9,
+                "pc": 119
+            }
+        },
+        {
+            "Sine Perc.": {
+                "cc": 10,
+                "pc": 119
+            }
+        },
+        {
+            "606 Tom": {
+                "cc": 11,
+                "pc": 119
+            }
+        },
+        {
+            "909 Tom": {
+                "cc": 12,
+                "pc": 119
+            }
+        },
+        {
+            "606 Dist.Tom": {
+                "cc": 13,
+                "pc": 119
+            }
+        },
+        {
+            "Reverse Cym.": {
+                "cc": 0,
+                "pc": 120
+            }
+        },
+        {
+            "Reverse Cym2": {
+                "cc": 1,
+                "pc": 120
+            }
+        },
+        {
+            "Reverse Cym3": {
+                "cc": 2,
+                "pc": 120
+            }
+        },
+        {
+            "Reverse Cym4": {
+                "cc": 3,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.Snare 1": {
+                "cc": 8,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.Snare 2": {
+                "cc": 9,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.Kick 1": {
+                "cc": 16,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.ConBD": {
+                "cc": 17,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.Tom 1": {
+                "cc": 24,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.Tom 2": {
+                "cc": 25,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.Tom 3": {
+                "cc": 26,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.Tom 4": {
+                "cc": 27,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.SD Menu1": {
+                "cc": 40,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.SD Menu2": {
+                "cc": 41,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.SD Menu3": {
+                "cc": 42,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.BD Menu1": {
+                "cc": 43,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.BD Menu2": {
+                "cc": 44,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.BD Menu3": {
+                "cc": 45,
+                "pc": 120
+            }
+        },
+        {
+            "Rev.ClapMenu": {
+                "cc": 46,
+                "pc": 120
+            }
+        }
+    ],
+    "synth sfx": [
+        {
+            "Ice Rain": {
+                "cc": 0,
+                "pc": 97
+            }
+        },
+        {
+            "Harmo Rain": {
+                "cc": 1,
+                "pc": 97
+            }
+        },
+        {
+            "African wood": {
+                "cc": 2,
+                "pc": 97
+            }
+        },
+        {
+            "Anklung Pad": {
+                "cc": 3,
+                "pc": 97
+            }
+        },
+        {
+            "Rattle Pad": {
+                "cc": 4,
+                "pc": 97
+            }
+        },
+        {
+            "Saw Impulse": {
+                "cc": 5,
+                "pc": 97
+            }
+        },
+        {
+            "Strange Str.": {
+                "cc": 6,
+                "pc": 97
+            }
+        },
+        {
+            "FastFWD Pad": {
+                "cc": 7,
+                "pc": 97
+            }
+        },
+        {
+            "Clavi Pad": {
+                "cc": 8,
+                "pc": 97
+            }
+        },
+        {
+            "EP Pad": {
+                "cc": 9,
+                "pc": 97
+            }
+        },
+        {
+            "Tambra Pad": {
+                "cc": 10,
+                "pc": 97
+            }
+        },
+        {
+            "CP Pad": {
+                "cc": 11,
+                "pc": 97
+            }
+        },
+        {
+            "Soundtrack": {
+                "cc": 0,
+                "pc": 98
+            }
+        },
+        {
+            "Ancestral": {
+                "cc": 1,
+                "pc": 98
+            }
+        },
+        {
+            "Prologue": {
+                "cc": 2,
+                "pc": 98
+            }
+        },
+        {
+            "Prologue 2": {
+                "cc": 3,
+                "pc": 98
+            }
+        },
+        {
+            "Hols Strings": {
+                "cc": 4,
+                "pc": 98
+            }
+        },
+        {
+            "HistoryWave": {
+                "cc": 5,
+                "pc": 98
+            }
+        },
+        {
+            "Rave": {
+                "cc": 8,
+                "pc": 98
+            }
+        },
+        {
+            "Crystal": {
+                "cc": 0,
+                "pc": 99
+            }
+        },
+        {
+            "Syn Mallet": {
+                "cc": 1,
+                "pc": 99
+            }
+        },
+        {
+            "Soft Crystal": {
+                "cc": 2,
+                "pc": 99
+            }
+        },
+        {
+            "Round Glock": {
+                "cc": 3,
+                "pc": 99
+            }
+        },
+        {
+            "Loud Glock": {
+                "cc": 4,
+                "pc": 99
+            }
+        },
+        {
+            "GlockenChime": {
+                "cc": 5,
+                "pc": 99
+            }
+        },
+        {
+            "Clear Bells": {
+                "cc": 6,
+                "pc": 99
+            }
+        },
+        {
+            "ChristmasBel": {
+                "cc": 7,
+                "pc": 99
+            }
+        },
+        {
+            "Vibra Bells": {
+                "cc": 8,
+                "pc": 99
+            }
+        },
+        {
+            "Digi Bells": {
+                "cc": 9,
+                "pc": 99
+            }
+        },
+        {
+            "Music Bell": {
+                "cc": 10,
+                "pc": 99
+            }
+        },
+        {
+            "Analog Bell": {
+                "cc": 11,
+                "pc": 99
+            }
+        },
+        {
+            "Blow Bell": {
+                "cc": 12,
+                "pc": 99
+            }
+        },
+        {
+            "Hyper Bell": {
+                "cc": 13,
+                "pc": 99
+            }
+        },
+        {
+            "Choral Bells": {
+                "cc": 16,
+                "pc": 99
+            }
+        },
+        {
+            "Air Bells": {
+                "cc": 17,
+                "pc": 99
+            }
+        },
+        {
+            "Bell Harp": {
+                "cc": 18,
+                "pc": 99
+            }
+        },
+        {
+            "Gamelimba": {
+                "cc": 19,
+                "pc": 99
+            }
+        },
+        {
+            "JUNO Bell": {
+                "cc": 20,
+                "pc": 99
+            }
+        },
+        {
+            "JP Bell": {
+                "cc": 21,
+                "pc": 99
+            }
+        },
+        {
+            "Pizz Bell": {
+                "cc": 22,
+                "pc": 99
+            }
+        },
+        {
+            "Bottom Bell": {
+                "cc": 23,
+                "pc": 99
+            }
+        },
+        {
+            "Atmosphere": {
+                "cc": 0,
+                "pc": 100
+            }
+        },
+        {
+            "Warm Atmos": {
+                "cc": 1,
+                "pc": 100
+            }
+        },
+        {
+            "Nylon Harp": {
+                "cc": 2,
+                "pc": 100
+            }
+        },
+        {
+            "Harpvox": {
+                "cc": 3,
+                "pc": 100
+            }
+        },
+        {
+            "HollowReleas": {
+                "cc": 4,
+                "pc": 100
+            }
+        },
+        {
+            "Nylon+Rhodes": {
+                "cc": 5,
+                "pc": 100
+            }
+        },
+        {
+            "Ambient Pad": {
+                "cc": 6,
+                "pc": 100
+            }
+        },
+        {
+            "Invisible": {
+                "cc": 7,
+                "pc": 100
+            }
+        },
+        {
+            "Pulsey Key": {
+                "cc": 8,
+                "pc": 100
+            }
+        },
+        {
+            "Noise Piano": {
+                "cc": 9,
+                "pc": 100
+            }
+        },
+        {
+            "Heaven Atmos": {
+                "cc": 10,
+                "pc": 100
+            }
+        },
+        {
+            "Tambra Atmos": {
+                "cc": 11,
+                "pc": 100
+            }
+        },
+        {
+            "Brightness": {
+                "cc": 0,
+                "pc": 101
+            }
+        },
+        {
+            "Shining Star": {
+                "cc": 1,
+                "pc": 101
+            }
+        },
+        {
+            "OB Stab": {
+                "cc": 2,
+                "pc": 101
+            }
+        },
+        {
+            "Brass Star": {
+                "cc": 3,
+                "pc": 101
+            }
+        },
+        {
+            "Choir Stab": {
+                "cc": 4,
+                "pc": 101
+            }
+        },
+        {
+            "D-50 Retour": {
+                "cc": 5,
+                "pc": 101
+            }
+        },
+        {
+            "SouthernWind": {
+                "cc": 6,
+                "pc": 101
+            }
+        },
+        {
+            "SymbolicBell": {
+                "cc": 7,
+                "pc": 101
+            }
+        },
+        {
+            "Org Bell": {
+                "cc": 8,
+                "pc": 101
+            }
+        },
+        {
+            "Goblin": {
+                "cc": 0,
+                "pc": 102
+            }
+        },
+        {
+            "Goblinson": {
+                "cc": 1,
+                "pc": 102
+            }
+        },
+        {
+            "50's Sci-Fi": {
+                "cc": 2,
+                "pc": 102
+            }
+        },
+        {
+            "Abduction": {
+                "cc": 3,
+                "pc": 102
+            }
+        },
+        {
+            "Auhbient": {
+                "cc": 4,
+                "pc": 102
+            }
+        },
+        {
+            "LFO Pad": {
+                "cc": 5,
+                "pc": 102
+            }
+        },
+        {
+            "Random Str": {
+                "cc": 6,
+                "pc": 102
+            }
+        },
+        {
+            "Random Pad": {
+                "cc": 7,
+                "pc": 102
+            }
+        },
+        {
+            "LowBirds Pad": {
+                "cc": 8,
+                "pc": 102
+            }
+        },
+        {
+            "Falling Down": {
+                "cc": 9,
+                "pc": 102
+            }
+        },
+        {
+            "LFO RAVE": {
+                "cc": 10,
+                "pc": 102
+            }
+        },
+        {
+            "LFO Horror": {
+                "cc": 11,
+                "pc": 102
+            }
+        },
+        {
+            "LFO Techno": {
+                "cc": 12,
+                "pc": 102
+            }
+        },
+        {
+            "Alternative": {
+                "cc": 13,
+                "pc": 102
+            }
+        },
+        {
+            "UFO FX": {
+                "cc": 14,
+                "pc": 102
+            }
+        },
+        {
+            "Gargle Man": {
+                "cc": 15,
+                "pc": 102
+            }
+        },
+        {
+            "Sweep FX": {
+                "cc": 16,
+                "pc": 102
+            }
+        },
+        {
+            "LM Has Come": {
+                "cc": 17,
+                "pc": 102
+            }
+        },
+        {
+            "FallinInsect": {
+                "cc": 18,
+                "pc": 102
+            }
+        },
+        {
+            "LFO Oct.Rave": {
+                "cc": 19,
+                "pc": 102
+            }
+        },
+        {
+            "Just Before": {
+                "cc": 20,
+                "pc": 102
+            }
+        },
+        {
+            "RND Fl.Chord": {
+                "cc": 21,
+                "pc": 102
+            }
+        },
+        {
+            "RandomEnding": {
+                "cc": 22,
+                "pc": 102
+            }
+        },
+        {
+            "Random Sine": {
+                "cc": 23,
+                "pc": 102
+            }
+        },
+        {
+            "EatingFilter": {
+                "cc": 24,
+                "pc": 102
+            }
+        },
+        {
+            "Noise&SawHit": {
+                "cc": 25,
+                "pc": 102
+            }
+        },
+        {
+            "Pour Magic": {
+                "cc": 26,
+                "pc": 102
+            }
+        },
+        {
+            "DancingDrill": {
+                "cc": 27,
+                "pc": 102
+            }
+        },
+        {
+            "Dirty Stack": {
+                "cc": 28,
+                "pc": 102
+            }
+        },
+        {
+            "Big Blue": {
+                "cc": 29,
+                "pc": 102
+            }
+        },
+        {
+            "Static Hit": {
+                "cc": 30,
+                "pc": 102
+            }
+        },
+        {
+            "Atl.Mod.FX": {
+                "cc": 31,
+                "pc": 102
+            }
+        },
+        {
+            "Acid Copter": {
+                "cc": 32,
+                "pc": 102
+            }
+        },
+        {
+            "Echo Drops": {
+                "cc": 0,
+                "pc": 103
+            }
+        },
+        {
+            "Echo Bell": {
+                "cc": 1,
+                "pc": 103
+            }
+        },
+        {
+            "Echo Pan": {
+                "cc": 2,
+                "pc": 103
+            }
+        },
+        {
+            "Echo Pan 2": {
+                "cc": 3,
+                "pc": 103
+            }
+        },
+        {
+            "Big Panner": {
+                "cc": 4,
+                "pc": 103
+            }
+        },
+        {
+            "Reso Panner": {
+                "cc": 5,
+                "pc": 103
+            }
+        },
+        {
+            "Water Piano": {
+                "cc": 6,
+                "pc": 103
+            }
+        },
+        {
+            "Echo SynBass": {
+                "cc": 7,
+                "pc": 103
+            }
+        },
+        {
+            "Pan Sequence": {
+                "cc": 8,
+                "pc": 103
+            }
+        },
+        {
+            "Aqua": {
+                "cc": 9,
+                "pc": 103
+            }
+        },
+        {
+            "Panning Lead": {
+                "cc": 10,
+                "pc": 103
+            }
+        },
+        {
+            "PanningBrass": {
+                "cc": 11,
+                "pc": 103
+            }
+        },
+        {
+            "Star Theme": {
+                "cc": 0,
+                "pc": 104
+            }
+        },
+        {
+            "Star Theme 2": {
+                "cc": 1,
+                "pc": 104
+            }
+        },
+        {
+            "Star Mind": {
+                "cc": 2,
+                "pc": 104
+            }
+        },
+        {
+            "Star Dust": {
+                "cc": 3,
+                "pc": 104
+            }
+        },
+        {
+            "Rep.Trance": {
+                "cc": 4,
+                "pc": 104
+            }
+        },
+        {
+            "Etherality": {
+                "cc": 5,
+                "pc": 104
+            }
+        },
+        {
+            "Mystic Pad": {
+                "cc": 6,
+                "pc": 104
+            }
+        },
+        {
+            "Dream Pad": {
+                "cc": 8,
+                "pc": 104
+            }
+        },
+        {
+            "Silky Pad": {
+                "cc": 9,
+                "pc": 104
+            }
+        },
+        {
+            "Dream Pad 2": {
+                "cc": 10,
+                "pc": 104
+            }
+        },
+        {
+            "Silky Pad 2": {
+                "cc": 11,
+                "pc": 104
+            }
+        },
+        {
+            "New Century": {
+                "cc": 16,
+                "pc": 104
+            }
+        },
+        {
+            "7th Atmos.": {
+                "cc": 17,
+                "pc": 104
+            }
+        },
+        {
+            "Galaxy Way": {
+                "cc": 18,
+                "pc": 104
+            }
+        },
+        {
+            "Rising OSC.": {
+                "cc": 19,
+                "pc": 104
+            }
+        }
+    ],
+    "synth lead": [
+        {
+            "Square Wave": {
+                "cc": 0,
+                "pc": 81
+            }
+        },
+        {
+            "MG Square": {
+                "cc": 1,
+                "pc": 81
+            }
+        },
+        {
+            "Hollow Mini": {
+                "cc": 2,
+                "pc": 81
+            }
+        },
+        {
+            "Mellow FM": {
+                "cc": 3,
+                "pc": 81
+            }
+        },
+        {
+            "CC Solo": {
+                "cc": 4,
+                "pc": 81
+            }
+        },
+        {
+            "Shmoog": {
+                "cc": 5,
+                "pc": 81
+            }
+        },
+        {
+            "LM Square": {
+                "cc": 6,
+                "pc": 81
+            }
+        },
+        {
+            "JP8000 TWM": {
+                "cc": 7,
+                "pc": 81
+            }
+        },
+        {
+            "2600 Sine": {
+                "cc": 8,
+                "pc": 81
+            }
+        },
+        {
+            "Sine Lead": {
+                "cc": 9,
+                "pc": 81
+            }
+        },
+        {
+            "KG Lead": {
+                "cc": 10,
+                "pc": 81
+            }
+        },
+        {
+            "Twin Sine": {
+                "cc": 11,
+                "pc": 81
+            }
+        },
+        {
+            "P5 Square": {
+                "cc": 16,
+                "pc": 81
+            }
+        },
+        {
+            "OB Square": {
+                "cc": 17,
+                "pc": 81
+            }
+        },
+        {
+            "JP-8 Square": {
+                "cc": 18,
+                "pc": 81
+            }
+        },
+        {
+            "Dist Square": {
+                "cc": 19,
+                "pc": 81
+            }
+        },
+        {
+            "303SquarDst1": {
+                "cc": 20,
+                "pc": 81
+            }
+        },
+        {
+            "303SquarDst2": {
+                "cc": 21,
+                "pc": 81
+            }
+        },
+        {
+            "303 Mix Sqr": {
+                "cc": 22,
+                "pc": 81
+            }
+        },
+        {
+            "Dual Sqr&Saw": {
+                "cc": 23,
+                "pc": 81
+            }
+        },
+        {
+            "Pulse Lead": {
+                "cc": 24,
+                "pc": 81
+            }
+        },
+        {
+            "JP8 PulseLd1": {
+                "cc": 25,
+                "pc": 81
+            }
+        },
+        {
+            "JP8 PulseLd2": {
+                "cc": 26,
+                "pc": 81
+            }
+        },
+        {
+            "MG Reso. Pls": {
+                "cc": 27,
+                "pc": 81
+            }
+        },
+        {
+            "JP8 PulseLd3": {
+                "cc": 28,
+                "pc": 81
+            }
+        },
+        {
+            "260RingLead": {
+                "cc": 29,
+                "pc": 81
+            }
+        },
+        {
+            "303DistLead": {
+                "cc": 30,
+                "pc": 81
+            }
+        },
+        {
+            "JP8000DistLd": {
+                "cc": 31,
+                "pc": 81
+            }
+        },
+        {
+            "HipHop SinLd": {
+                "cc": 32,
+                "pc": 81
+            }
+        },
+        {
+            "HipHop SqrLd": {
+                "cc": 33,
+                "pc": 81
+            }
+        },
+        {
+            "HipHop PlsLd": {
+                "cc": 34,
+                "pc": 81
+            }
+        },
+        {
+            "Flux Pulse": {
+                "cc": 35,
+                "pc": 81
+            }
+        },
+        {
+            "Saw Wave": {
+                "cc": 0,
+                "pc": 82
+            }
+        },
+        {
+            "OB2 Saw": {
+                "cc": 1,
+                "pc": 82
+            }
+        },
+        {
+            "Pulse Saw": {
+                "cc": 2,
+                "pc": 82
+            }
+        },
+        {
+            "Feline GR": {
+                "cc": 3,
+                "pc": 82
+            }
+        },
+        {
+            "Big Lead": {
+                "cc": 4,
+                "pc": 82
+            }
+        },
+        {
+            "Velo Lead": {
+                "cc": 5,
+                "pc": 82
+            }
+        },
+        {
+            "GR-300": {
+                "cc": 6,
+                "pc": 82
+            }
+        },
+        {
+            "LA Saw": {
+                "cc": 7,
+                "pc": 82
+            }
+        },
+        {
+            "Doctor Solo": {
+                "cc": 8,
+                "pc": 82
+            }
+        },
+        {
+            "Fat Saw Lead": {
+                "cc": 9,
+                "pc": 82
+            }
+        },
+        {
+            "JP8000 Saw": {
+                "cc": 10,
+                "pc": 82
+            }
+        },
+        {
+            "D-50 Fat Saw": {
+                "cc": 11,
+                "pc": 82
+            }
+        },
+        {
+            "OB DoubleSaw": {
+                "cc": 12,
+                "pc": 82
+            }
+        },
+        {
+            "JP DoubleSaw": {
+                "cc": 13,
+                "pc": 82
+            }
+        },
+        {
+            "FatSawLead 2": {
+                "cc": 14,
+                "pc": 82
+            }
+        },
+        {
+            "JP SuperSaw": {
+                "cc": 15,
+                "pc": 82
+            }
+        },
+        {
+            "Waspy Synth": {
+                "cc": 16,
+                "pc": 82
+            }
+        },
+        {
+            "PM Lead": {
+                "cc": 17,
+                "pc": 82
+            }
+        },
+        {
+            "CS Saw Lead": {
+                "cc": 18,
+                "pc": 82
+            }
+        },
+        {
+            "MG Saw 1": {
+                "cc": 24,
+                "pc": 82
+            }
+        },
+        {
+            "MG Saw 2": {
+                "cc": 25,
+                "pc": 82
+            }
+        },
+        {
+            "OB Saw 1": {
+                "cc": 26,
+                "pc": 82
+            }
+        },
+        {
+            "OB Saw 2": {
+                "cc": 27,
+                "pc": 82
+            }
+        },
+        {
+            "D-50 Saw": {
+                "cc": 28,
+                "pc": 82
+            }
+        },
+        {
+            "SH-101 Saw": {
+                "cc": 29,
+                "pc": 82
+            }
+        },
+        {
+            "CS Saw": {
+                "cc": 30,
+                "pc": 82
+            }
+        },
+        {
+            "MG Saw Lead": {
+                "cc": 31,
+                "pc": 82
+            }
+        },
+        {
+            "OB Saw Lead": {
+                "cc": 32,
+                "pc": 82
+            }
+        },
+        {
+            "P5 Saw Lead": {
+                "cc": 33,
+                "pc": 82
+            }
+        },
+        {
+            "MG unison": {
+                "cc": 34,
+                "pc": 82
+            }
+        },
+        {
+            "Oct Saw Lead": {
+                "cc": 35,
+                "pc": 82
+            }
+        },
+        {
+            "Natural Lead": {
+                "cc": 36,
+                "pc": 82
+            }
+        },
+        {
+            "SequenceSaw1": {
+                "cc": 40,
+                "pc": 82
+            }
+        },
+        {
+            "SequenceSaw2": {
+                "cc": 41,
+                "pc": 82
+            }
+        },
+        {
+            "Reso Saw": {
+                "cc": 42,
+                "pc": 82
+            }
+        },
+        {
+            "Cheese Saw 1": {
+                "cc": 43,
+                "pc": 82
+            }
+        },
+        {
+            "Cheese Saw 2": {
+                "cc": 44,
+                "pc": 82
+            }
+        },
+        {
+            "Rhythmic Saw": {
+                "cc": 45,
+                "pc": 82
+            }
+        },
+        {
+            "SequencedSaw": {
+                "cc": 46,
+                "pc": 82
+            }
+        },
+        {
+            "Techno Saw": {
+                "cc": 47,
+                "pc": 82
+            }
+        },
+        {
+            "Syn.Calliope": {
+                "cc": 0,
+                "pc": 83
+            }
+        },
+        {
+            "Vent Synth": {
+                "cc": 1,
+                "pc": 83
+            }
+        },
+        {
+            "Pure PanLead": {
+                "cc": 2,
+                "pc": 83
+            }
+        },
+        {
+            "LM Pure Lead": {
+                "cc": 8,
+                "pc": 83
+            }
+        },
+        {
+            "LM Blow Lead": {
+                "cc": 9,
+                "pc": 83
+            }
+        },
+        {
+            "Chiffer Lead": {
+                "cc": 0,
+                "pc": 84
+            }
+        },
+        {
+            "TB Lead": {
+                "cc": 1,
+                "pc": 84
+            }
+        },
+        {
+            "Hybrid Lead": {
+                "cc": 2,
+                "pc": 84
+            }
+        },
+        {
+            "Unison SqrLd": {
+                "cc": 3,
+                "pc": 84
+            }
+        },
+        {
+            "FatSolo Lead": {
+                "cc": 4,
+                "pc": 84
+            }
+        },
+        {
+            "ForcefulLead": {
+                "cc": 5,
+                "pc": 84
+            }
+        },
+        {
+            "Oct.UnisonLd": {
+                "cc": 6,
+                "pc": 84
+            }
+        },
+        {
+            "Unison SawLd": {
+                "cc": 7,
+                "pc": 84
+            }
+        },
+        {
+            "Mad Lead": {
+                "cc": 8,
+                "pc": 84
+            }
+        },
+        {
+            "CrowdingLead": {
+                "cc": 9,
+                "pc": 84
+            }
+        },
+        {
+            "Double Sqr.": {
+                "cc": 10,
+                "pc": 84
+            }
+        },
+        {
+            "Charang": {
+                "cc": 0,
+                "pc": 85
+            }
+        },
+        {
+            "Wire Lead": {
+                "cc": 1,
+                "pc": 85
+            }
+        },
+        {
+            "FB.Charang": {
+                "cc": 2,
+                "pc": 85
+            }
+        },
+        {
+            "Fat GR Lead": {
+                "cc": 3,
+                "pc": 85
+            }
+        },
+        {
+            "Windy GR Ld": {
+                "cc": 4,
+                "pc": 85
+            }
+        },
+        {
+            "Mellow GR Ld": {
+                "cc": 5,
+                "pc": 85
+            }
+        },
+        {
+            "GR & Pulse": {
+                "cc": 6,
+                "pc": 85
+            }
+        },
+        {
+            "Dist.Lead": {
+                "cc": 8,
+                "pc": 85
+            }
+        },
+        {
+            "Acid Guitar1": {
+                "cc": 9,
+                "pc": 85
+            }
+        },
+        {
+            "Acid Guitar2": {
+                "cc": 10,
+                "pc": 85
+            }
+        },
+        {
+            "Dance Dst.Gt": {
+                "cc": 11,
+                "pc": 85
+            }
+        },
+        {
+            "DanceDst.Gt2": {
+                "cc": 12,
+                "pc": 85
+            }
+        },
+        {
+            "P5 Sync Lead": {
+                "cc": 16,
+                "pc": 85
+            }
+        },
+        {
+            "Fat SyncLead": {
+                "cc": 17,
+                "pc": 85
+            }
+        },
+        {
+            "Rock Lead": {
+                "cc": 18,
+                "pc": 85
+            }
+        },
+        {
+            "5th DecaSync": {
+                "cc": 19,
+                "pc": 85
+            }
+        },
+        {
+            "Dirty Sync": {
+                "cc": 20,
+                "pc": 85
+            }
+        },
+        {
+            "DualSyncLead": {
+                "cc": 21,
+                "pc": 85
+            }
+        },
+        {
+            "LA Brass Ld": {
+                "cc": 22,
+                "pc": 85
+            }
+        },
+        {
+            "JUNO Sub Osc": {
+                "cc": 24,
+                "pc": 85
+            }
+        },
+        {
+            "2600 Sub Osc": {
+                "cc": 25,
+                "pc": 85
+            }
+        },
+        {
+            "JP8000Fd Osc": {
+                "cc": 26,
+                "pc": 85
+            }
+        },
+        {
+            "Solo Vox": {
+                "cc": 0,
+                "pc": 86
+            }
+        },
+        {
+            "Solo Vox 2": {
+                "cc": 1,
+                "pc": 86
+            }
+        },
+        {
+            "Vox Lead": {
+                "cc": 8,
+                "pc": 86
+            }
+        },
+        {
+            "LFO Vox": {
+                "cc": 9,
+                "pc": 86
+            }
+        },
+        {
+            "Vox Lead 2": {
+                "cc": 10,
+                "pc": 86
+            }
+        },
+        {
+            "5th Saw Wave": {
+                "cc": 0,
+                "pc": 87
+            }
+        },
+        {
+            "Big Fives": {
+                "cc": 1,
+                "pc": 87
+            }
+        },
+        {
+            "5th Lead": {
+                "cc": 2,
+                "pc": 87
+            }
+        },
+        {
+            "5th Ana.Clav": {
+                "cc": 3,
+                "pc": 87
+            }
+        },
+        {
+            "5th Pulse": {
+                "cc": 4,
+                "pc": 87
+            }
+        },
+        {
+            "JP 5th Saw": {
+                "cc": 5,
+                "pc": 87
+            }
+        },
+        {
+            "JP8000 5thFB": {
+                "cc": 6,
+                "pc": 87
+            }
+        },
+        {
+            "4th Lead": {
+                "cc": 8,
+                "pc": 87
+            }
+        },
+        {
+            "Bass & Lead": {
+                "cc": 0,
+                "pc": 88
+            }
+        },
+        {
+            "Big & Raw": {
+                "cc": 1,
+                "pc": 88
+            }
+        },
+        {
+            "Fat & Perky": {
+                "cc": 2,
+                "pc": 88
+            }
+        },
+        {
+            "JUNO Rave": {
+                "cc": 3,
+                "pc": 88
+            }
+        },
+        {
+            "JP8 BsLead 1": {
+                "cc": 4,
+                "pc": 88
+            }
+        },
+        {
+            "JP8 BsLead 2": {
+                "cc": 5,
+                "pc": 88
+            }
+        },
+        {
+            "SH-5 Bs.Lead": {
+                "cc": 6,
+                "pc": 88
+            }
+        },
+        {
+            "Delayed Lead": {
+                "cc": 7,
+                "pc": 88
+            }
+        }
+    ]
+}
