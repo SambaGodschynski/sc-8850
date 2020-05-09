@@ -159,6 +159,8 @@ class SelectionView(object):
 if __name__ == "__main__":
     import argparse
     import sys
+    import os
+    import os.path as path
     parser = argparse.ArgumentParser()
     parser.add_argument('--device', type=int, help='the device id of the midi taret device')
     parser.add_argument('--listdevices', action='store_const', const=True, help='set a specific style to process')
@@ -177,8 +179,10 @@ if __name__ == "__main__":
         cc = args.cc if args.pc != None else 0
         set_instrument(midi_out, Instrument("", cc, pc))
         sys.exit(0)
-
-    library = InstrumentLibrary(json_instrument_map)
+    json_path = json_instrument_map
+    root_path = os.path.dirname(os.path.abspath(__file__ ))
+    json_path = path.join(root_path, json_path)
+    library = InstrumentLibrary(json_path)
     view = SelectionView(library)
     term = view.term
     set_instrument(midi_out, view.current_instrument)
