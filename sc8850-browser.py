@@ -119,7 +119,17 @@ class SelectionView(object):
     def set_prev_instrument(self):
         self.current_instrument_idx -=1
         if self.current_instrument_idx < 0:
-            self.current_instrument_idx = len(self.current_instruments) - 1               
+            self.current_instrument_idx = len(self.current_instruments) - 1  
+
+    def jump_next_row(self):
+        self.current_instrument_idx += self.term.height - 2
+        if self.current_instrument_idx >= len(self.current_instruments):
+            self.current_instrument_idx = len(self.current_instruments) - 1
+
+    def jump_prev_row(self):
+        self.current_instrument_idx -= self.term.height - 2
+        if self.current_instrument_idx < 0:
+            self.current_instrument_idx = 0       
 
     def render_header(self):
         term = self.term
@@ -197,14 +207,18 @@ if __name__ == "__main__":
             if inp == 'q':
                 print(term.clear)
                 break
-            if inp == 'd':
+            if inp == 'D':
                 view.set_next_group()
-            if inp == 'a':
+            if inp == 'A':
                 view.set_prev_group()
             if inp == 's':
                 view.set_next_instrument()
             if inp == 'w':
                 view.set_prev_instrument()
+            if inp == 'd':
+                view.jump_next_row()
+            if inp == 'a':
+                view.jump_prev_row()                
             # why I have to send it twice?
             # (dosen't work otherwise, the right instrument is always one step behind then)
             instr = view.current_instrument

@@ -16,6 +16,6 @@ This will list all your connected MIDI devices: `[DEVICE_INDEX]: [DEVICENAME]`
 
 You can naviagte via `WASD` keys.
 
-Press `d` for next instrument group. Press `a` for previous instument group.
+Press `shift+d` for next instrument group. Press `shift+a` for previous instument group.
 
-Navigate the instruments with `w` and `d`.
+Navigate the instruments with `wasd`.
