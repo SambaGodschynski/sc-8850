@@ -9,6 +9,7 @@ IS_WINDOWS = True if os.name == 'nt' else False
 
 json_instrument_map = 'instruments-map.sc8850.json'
 
+
 class InstrumentLibrary:
     def __init__(self, jsonfile: str):
         import json
@@ -78,6 +79,7 @@ class SelectionView(object):
         self.header_size = 1
         self.init_resize_listener()
         self.selected_insrtument = self.current_instrument
+        self.columns = 12
     
     def init_resize_listener(self):
         if IS_WINDOWS:
@@ -131,7 +133,7 @@ class SelectionView(object):
         instruments = self.library.instruments[self.current_group]
         current_instrument = self.current_instrument
         instr_idx = 0
-        cell_width = max(4, term.width // 8)
+        cell_width = max(4, term.width // self.columns)
         margin = 3
         for x in range(0, term.width, cell_width):
             for y in range(self.header_size, term.height - 1):
@@ -166,6 +168,7 @@ if __name__ == "__main__":
     parser.add_argument('--listdevices', action='store_const', const=True, help='set a specific style to process')
     parser.add_argument('--pc', type=int, help='set a pc value')
     parser.add_argument('--cc', type=int, help='set a cc value')
+    parser.add_argument('--columns', type=int, default=12, help='set the number of columns. Default is 12')
     args = parser.parse_args()
     if args.listdevices:
         list_mididevices()
@@ -184,6 +187,7 @@ if __name__ == "__main__":
     json_path = path.join(root_path, json_path)
     library = InstrumentLibrary(json_path)
     view = SelectionView(library)
+    view.columns = args.columns
     term = view.term
     set_instrument(midi_out, view.current_instrument)
     while True:
