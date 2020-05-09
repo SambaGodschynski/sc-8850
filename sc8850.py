@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 
-import rtmidi
 from rtmidi import MidiOut
 import threading
 import time
+import os
+
+IS_WINDOWS = True if os.name == 'nt' else False
 
 json_instrument_map = 'instruments-map.sc8850.json'
 
-class InstrumentLibrary(object):
+class InstrumentLibrary:
     def __init__(self, jsonfile: str):
         import json
         jsObj = None
@@ -26,7 +28,7 @@ class InstrumentLibrary(object):
     def groups(self):
         return list(self.instruments.keys())
 
-class Instrument(object):
+class Instrument:
     def __init__(self, name: str, cc:int, pc:int):
         self.name = name
         self.cc = cc
@@ -39,7 +41,7 @@ def midi_cmd(midi_command:int, channel:int):
     result = (midi_command << 4) | channel
     return result
 
-def play_a_note(midi_out:MidiOut, instrument: Instrument):
+def play_a_note(midi_out: MidiOut, instrument: Instrument):
     note_on = midi_cmd(0x9, instrument.ch) 
     note_off = midi_cmd(0x8, instrument.ch)
     midi_out.send_message([note_on, 60, 80])
@@ -47,7 +49,7 @@ def play_a_note(midi_out:MidiOut, instrument: Instrument):
     midi_out.send_message([note_off, 60, 0])
     time.sleep(0.1)
 
-def set_instrument(midi_out:MidiOut, instrument: Instrument):
+def set_instrument(midi_out: MidiOut, instrument: Instrument):
     cc = midi_cmd(0xB, instrument.ch)
     pc = midi_cmd(0xC, instrument.ch)
     midi_out.send_message([pc, instrument.pc])
@@ -78,6 +80,8 @@ class SelectionView(object):
         self.selected_insrtument = self.current_instrument
     
     def init_resize_listener(self):
+        if IS_WINDOWS:
+            return
         import signal
         signal.signal(signal.SIGWINCH, lambda sig, action: self.render())
 
@@ -127,7 +131,7 @@ class SelectionView(object):
         instruments = self.library.instruments[self.current_group]
         current_instrument = self.current_instrument
         instr_idx = 0
-        cell_width = term.width // 8
+        cell_width = max(4, term.width // 8)
         margin = 3
         for x in range(0, term.width, cell_width):
             for y in range(self.header_size, term.height - 1):
@@ -193,12 +197,10 @@ if __name__ == "__main__":
                 view.set_next_instrument()
             if inp == 'w':
                 view.set_prev_instrument()
-            # why I have to send it twice? (dosen't work otherwise, the right instrument is always one step behind)    
-            instr = view.current_instrument 
+            # why I have to send it twice?
+            # (dosen't work otherwise, the right instrument is always one step behind then)
+            instr = view.current_instrument
             if view.current_group == "drums":
                 instr.ch = 9
             set_instrument(midi_out, instr)
             set_instrument(midi_out, instr)
-
-        
-     
