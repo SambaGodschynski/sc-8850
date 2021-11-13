@@ -11,8 +11,11 @@ This is a console based instruments browser for the Roland SC-8850.
 `python sc8850-browser.py --listdevices`
 This will list all your connected MIDI devices: `[DEVICE_INDEX]: [DEVICENAME]`
 
+## installation
+`pip install .`
+
 ## run the browser
-`python sc8850-browser.py --device=[DEVICE_INDEX]`
+`python -m sc8850-browser --device=[DEVICE_INDEX]`
 
 You can naviagte via `WASD` keys.
 

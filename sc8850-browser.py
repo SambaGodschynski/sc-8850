@@ -175,7 +175,7 @@ if __name__ == "__main__":
     import os.path as path
     parser = argparse.ArgumentParser()
     parser.add_argument('--device', type=int, help='the device id of the midi taret device')
-    parser.add_argument('--listdevices', action='store_const', const=True, help='set a specific style to process')
+    parser.add_argument('--listdevices', action='store_const', const=True, help='lists the MIDI devices connected to this machine')
     parser.add_argument('--pc', type=int, help='set a pc value')
     parser.add_argument('--cc', type=int, help='set a cc value')
     parser.add_argument('--columns', type=int, default=12, help='set the number of columns. Default is 12')
